@@ -53,7 +53,7 @@ High-cost customer segments
 ## Tableau Public:
 Add your published dashboard link here
 https://public.tableau.com/app/profile/barath.p8111/viz/HyundaiservicecostOverreview/Dashboard1
-![Dashboard Image](assets/Dashboard .png)
+![Dashboard Image](assets/dashboard.png)
 
 ## Machine Learning Component
 ### Objective
@@ -77,7 +77,7 @@ R² Score
 
 ## Streamlit Application
 An interactive web interface allows users to input vehicle characteristics and obtain predicted service costs in real time.
-![Streamlit Prediction App](assets/streamlit app.png)
+![Streamlit Prediction App](assets/streamlit_app.png)
 ### Run Locally
 streamlit run app.py
 
