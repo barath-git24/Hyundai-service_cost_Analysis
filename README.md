@@ -106,6 +106,4 @@ hyundai-service-cost-analysis/
 ## Author
 Barath
 Data Analyst
-Interactive dashboards developed in Tableau Public
 
-Prediction interface deployed via Streamlit
