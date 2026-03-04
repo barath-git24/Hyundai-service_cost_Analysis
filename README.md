@@ -53,7 +53,7 @@ High-cost customer segments
 ## Tableau Public:
 Add your published dashboard link here
 https://public.tableau.com/app/profile/barath.p8111/viz/HyundaiservicecostOverreview/Dashboard1
-![Dashboard Image](assets/Dashboard.png)
+![Dashboard Image](assets/Dashboard .png)
 
 ## Machine Learning Component
 ### Objective
