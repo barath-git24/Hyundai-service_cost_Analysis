@@ -1,0 +1,2001 @@
+vehicle_id,model_name,engine_type,base_price,segment,purchase_year
+1,i10,Diesel,794832,Hatchback,2018
+2,Santro,Petrol,636583,Hatchback,2018
+3,Ioniq,Electric,3714721,Electric,2020
+4,Ioniq 5,Electric,2255991,Electric,2019
+5,Tucson,Diesel,1038384,SUV,2021
+6,Ioniq 5,Electric,3578152,Electric,2017
+7,Tucson,Diesel,2097826,SUV,2015
+8,Ioniq,Electric,2998323,Electric,2020
+9,Alcazar,Diesel,2382623,SUV,2015
+10,Tucson,Petrol,2213532,SUV,2022
+11,Verna,Petrol,966046,Sedan,2019
+12,Alcazar,Petrol,2190747,SUV,2019
+13,Verna,Petrol,1283155,Sedan,2022
+14,Elantra,Petrol,902145,Sedan,2018
+15,i10,Diesel,809287,Hatchback,2017
+16,Ioniq 5,Electric,2413905,Electric,2019
+17,Ioniq 5,Electric,2432471,Electric,2020
+18,Elantra,Petrol,1056555,Sedan,2022
+19,i20,Diesel,510691,Hatchback,2022
+20,Verna,Petrol,1117785,Sedan,2017
+21,Ioniq,Electric,3253752,Electric,2016
+22,Ioniq 5,Electric,2946768,Electric,2020
+23,Santro,Petrol,631794,Hatchback,2022
+24,Venue,Diesel,2233447,SUV,2015
+25,Tucson,Petrol,1743469,SUV,2019
+26,Tucson,Petrol,1299027,SUV,2018
+27,Elantra,Diesel,948484,Sedan,2015
+28,Grand i10 Nios,Petrol,509177,Hatchback,2017
+29,Santro,Petrol,828675,Hatchback,2015
+30,Verna,Petrol,1132728,Sedan,2020
+31,Tucson,Petrol,2240626,SUV,2016
+32,i20,Petrol,751683,Hatchback,2018
+33,Aura,Diesel,1128329,Sedan,2020
+34,Kona,Diesel,1075233,SUV,2020
+35,Tucson,Diesel,1316793,SUV,2022
+36,Ioniq 5,Electric,2411335,Electric,2021
+37,Aura,Diesel,1001056,Sedan,2021
+38,Creta,Petrol,1326363,SUV,2021
+39,Grand i10 Nios,Petrol,502828,Hatchback,2015
+40,Kona Electric,Electric,4804856,Electric,2019
+41,i20,Diesel,705758,Hatchback,2017
+42,i20,Diesel,625346,Hatchback,2022
+43,Alcazar,Petrol,2305441,SUV,2021
+44,Elantra,Petrol,950194,Sedan,2019
+45,Ioniq 5,Electric,4038158,Electric,2022
+46,Creta,Diesel,2007609,SUV,2019
+47,Creta,Diesel,1536234,SUV,2017
+48,Ioniq 5,Electric,4778730,Electric,2016
+49,Venue,Petrol,1705818,SUV,2018
+50,Santro,Diesel,681727,Hatchback,2020
+51,Ioniq,Electric,2307012,Electric,2022
+52,Aura,Diesel,1184218,Sedan,2020
+53,Grand i10 Nios,Diesel,557734,Hatchback,2018
+54,i20,Petrol,643717,Hatchback,2020
+55,Venue,Petrol,1647452,SUV,2015
+56,Elantra,Petrol,1226250,Sedan,2020
+57,Kona Electric,Electric,2015634,Electric,2017
+58,Kona Electric,Electric,4185351,Electric,2018
+59,Grand i10 Nios,Diesel,756597,Hatchback,2022
+60,i10,Petrol,846420,Hatchback,2015
+61,Santro,Petrol,820833,Hatchback,2021
+62,Verna,Diesel,935764,Sedan,2020
+63,Ioniq 5,Electric,4771117,Electric,2018
+64,Creta,Petrol,1176020,SUV,2018
+65,Creta,Petrol,1416681,SUV,2021
+66,Kona,Diesel,1836984,SUV,2016
+67,i20,Petrol,502147,Hatchback,2016
+68,Verna,Diesel,1304732,Sedan,2016
+69,Venue,Petrol,1585510,SUV,2021
+70,Alcazar,Diesel,2188820,SUV,2019
+71,Santro,Diesel,544221,Hatchback,2016
+72,Creta,Diesel,1090873,SUV,2022
+73,i10,Diesel,759960,Hatchback,2018
+74,Elantra,Diesel,965626,Sedan,2018
+75,Tucson,Diesel,1818414,SUV,2020
+76,Ioniq,Electric,3800638,Electric,2021
+77,i10,Diesel,843467,Hatchback,2021
+78,Tucson,Petrol,2495393,SUV,2019
+79,i20,Diesel,800567,Hatchback,2021
+80,Tucson,Diesel,2271578,SUV,2021
+81,Aura,Petrol,912976,Sedan,2016
+82,Creta,Diesel,1415984,SUV,2018
+83,Verna,Petrol,1404266,Sedan,2018
+84,Santro,Petrol,893205,Hatchback,2016
+85,Grand i10 Nios,Diesel,842315,Hatchback,2017
+86,Venue,Diesel,1421389,SUV,2016
+87,Tucson,Diesel,1450459,SUV,2015
+88,Creta,Diesel,1150925,SUV,2022
+89,Venue,Petrol,2018346,SUV,2018
+90,Kona,Diesel,1334623,SUV,2018
+91,Verna,Petrol,1385126,Sedan,2016
+92,Tucson,Diesel,2437699,SUV,2017
+93,Ioniq,Electric,3519342,Electric,2016
+94,Venue,Diesel,1731028,SUV,2017
+95,Aura,Petrol,1449533,Sedan,2019
+96,Alcazar,Diesel,2148742,SUV,2021
+97,Aura,Petrol,1432713,Sedan,2017
+98,Tucson,Diesel,1273675,SUV,2016
+99,Venue,Diesel,1350159,SUV,2022
+100,Venue,Petrol,2331679,SUV,2021
+101,i20,Petrol,641668,Hatchback,2018
+102,Tucson,Petrol,1554095,SUV,2018
+103,Tucson,Petrol,2433794,SUV,2022
+104,Kona Electric,Electric,3626234,Electric,2016
+105,i10,Diesel,719740,Hatchback,2020
+106,Santro,Diesel,867337,Hatchback,2017
+107,i10,Petrol,539150,Hatchback,2016
+108,Venue,Petrol,1360405,SUV,2018
+109,Santro,Petrol,680419,Hatchback,2022
+110,Ioniq,Electric,3484865,Electric,2018
+111,Venue,Petrol,1154809,SUV,2016
+112,Ioniq 5,Electric,2942079,Electric,2016
+113,Kona Electric,Electric,3401526,Electric,2018
+114,Aura,Diesel,913426,Sedan,2020
+115,i20,Petrol,794970,Hatchback,2018
+116,Creta,Diesel,1817704,SUV,2015
+117,Grand i10 Nios,Diesel,501281,Hatchback,2017
+118,Santro,Petrol,617912,Hatchback,2017
+119,Alcazar,Diesel,1716989,SUV,2015
+120,Aura,Petrol,1434217,Sedan,2018
+121,Venue,Diesel,1895382,SUV,2016
+122,Santro,Petrol,794087,Hatchback,2018
+123,Ioniq,Electric,3662420,Electric,2021
+124,Tucson,Petrol,1345553,SUV,2015
+125,Alcazar,Diesel,1886910,SUV,2020
+126,Aura,Diesel,1012399,Sedan,2022
+127,Grand i10 Nios,Diesel,692600,Hatchback,2019
+128,Elantra,Diesel,1453750,Sedan,2021
+129,Alcazar,Diesel,2166040,SUV,2019
+130,Grand i10 Nios,Petrol,599390,Hatchback,2017
+131,i10,Diesel,781186,Hatchback,2016
+132,Grand i10 Nios,Petrol,574243,Hatchback,2022
+133,Kona,Petrol,1343617,SUV,2019
+134,Aura,Petrol,1022939,Sedan,2016
+135,Elantra,Petrol,1297192,Sedan,2020
+136,Kona,Diesel,1063227,SUV,2015
+137,Ioniq 5,Electric,3296572,Electric,2020
+138,Elantra,Petrol,952319,Sedan,2022
+139,i20,Diesel,590220,Hatchback,2022
+140,Ioniq 5,Electric,4910175,Electric,2015
+141,Ioniq,Electric,3873322,Electric,2016
+142,Ioniq,Electric,2198666,Electric,2021
+143,Kona,Petrol,1775372,SUV,2020
+144,Verna,Diesel,1470301,Sedan,2019
+145,Santro,Diesel,526061,Hatchback,2017
+146,Venue,Petrol,1718617,SUV,2018
+147,Tucson,Diesel,1804409,SUV,2019
+148,Creta,Petrol,1843664,SUV,2017
+149,Santro,Petrol,715265,Hatchback,2020
+150,Kona,Petrol,2328435,SUV,2021
+151,Santro,Petrol,860788,Hatchback,2017
+152,Santro,Diesel,576414,Hatchback,2018
+153,Creta,Diesel,1161129,SUV,2019
+154,Aura,Petrol,1080432,Sedan,2021
+155,i10,Petrol,537485,Hatchback,2019
+156,Alcazar,Petrol,1365079,SUV,2022
+157,Ioniq,Electric,2936959,Electric,2015
+158,Kona Electric,Electric,3166987,Electric,2017
+159,Alcazar,Petrol,2471149,SUV,2022
+160,Verna,Petrol,1404468,Sedan,2018
+161,Grand i10 Nios,Petrol,695420,Hatchback,2021
+162,i10,Diesel,585610,Hatchback,2017
+163,Creta,Petrol,1251177,SUV,2020
+164,Alcazar,Petrol,1302783,SUV,2015
+165,Ioniq,Electric,3573267,Electric,2022
+166,Verna,Petrol,1058961,Sedan,2015
+167,Elantra,Diesel,1388464,Sedan,2015
+168,Venue,Petrol,1650124,SUV,2018
+169,Elantra,Petrol,1202251,Sedan,2015
+170,Santro,Diesel,797720,Hatchback,2020
+171,Elantra,Petrol,1412187,Sedan,2017
+172,Creta,Diesel,1276500,SUV,2015
+173,Kona Electric,Electric,3653758,Electric,2017
+174,Elantra,Petrol,937402,Sedan,2022
+175,Aura,Petrol,1314914,Sedan,2020
+176,Ioniq 5,Electric,2201447,Electric,2017
+177,Kona,Petrol,2000775,SUV,2021
+178,Venue,Petrol,2082128,SUV,2015
+179,Venue,Diesel,1055311,SUV,2021
+180,Kona Electric,Electric,3742960,Electric,2016
+181,Kona,Diesel,2378605,SUV,2020
+182,Venue,Diesel,1186222,SUV,2020
+183,Ioniq,Electric,2628184,Electric,2022
+184,Creta,Diesel,1899791,SUV,2019
+185,Tucson,Petrol,2132274,SUV,2018
+186,Kona Electric,Electric,2221412,Electric,2021
+187,Alcazar,Diesel,1245899,SUV,2021
+188,Elantra,Diesel,1321509,Sedan,2016
+189,Venue,Diesel,1512459,SUV,2016
+190,Alcazar,Petrol,1676298,SUV,2020
+191,Aura,Diesel,1208624,Sedan,2015
+192,Elantra,Petrol,1023306,Sedan,2020
+193,Verna,Diesel,1455897,Sedan,2019
+194,i20,Petrol,546176,Hatchback,2021
+195,Ioniq 5,Electric,2610090,Electric,2015
+196,Aura,Petrol,1239294,Sedan,2015
+197,Ioniq,Electric,4014698,Electric,2017
+198,Alcazar,Diesel,1798746,SUV,2022
+199,Venue,Diesel,2220373,SUV,2021
+200,Grand i10 Nios,Diesel,516159,Hatchback,2022
+201,Kona,Diesel,2114905,SUV,2021
+202,Tucson,Diesel,2159580,SUV,2021
+203,i20,Petrol,627084,Hatchback,2018
+204,Elantra,Diesel,1365745,Sedan,2021
+205,Ioniq 5,Electric,2621233,Electric,2017
+206,Ioniq,Electric,2346071,Electric,2019
+207,Kona,Diesel,2032423,SUV,2015
+208,Ioniq 5,Electric,3048346,Electric,2018
+209,Santro,Petrol,571080,Hatchback,2015
+210,Ioniq 5,Electric,4265604,Electric,2018
+211,Santro,Diesel,594042,Hatchback,2022
+212,i20,Petrol,656439,Hatchback,2017
+213,Alcazar,Diesel,2278858,SUV,2022
+214,Santro,Diesel,743871,Hatchback,2015
+215,Ioniq,Electric,2198513,Electric,2015
+216,Ioniq 5,Electric,3216776,Electric,2018
+217,i10,Diesel,713804,Hatchback,2018
+218,Grand i10 Nios,Petrol,711313,Hatchback,2017
+219,Ioniq 5,Electric,4327286,Electric,2022
+220,Creta,Diesel,2411092,SUV,2016
+221,Venue,Petrol,2430068,SUV,2019
+222,Kona,Diesel,2394970,SUV,2019
+223,Ioniq 5,Electric,3605842,Electric,2019
+224,Venue,Petrol,1116796,SUV,2015
+225,Tucson,Diesel,1454404,SUV,2019
+226,Kona,Diesel,1621512,SUV,2015
+227,Ioniq 5,Electric,4777230,Electric,2022
+228,Ioniq,Electric,4561055,Electric,2022
+229,i10,Petrol,633069,Hatchback,2016
+230,Tucson,Diesel,1360689,SUV,2021
+231,Grand i10 Nios,Diesel,642292,Hatchback,2018
+232,Creta,Petrol,1323692,SUV,2017
+233,Aura,Diesel,1215866,Sedan,2022
+234,i20,Diesel,604364,Hatchback,2022
+235,Ioniq 5,Electric,3588956,Electric,2022
+236,Elantra,Petrol,1101011,Sedan,2021
+237,Kona Electric,Electric,2943930,Electric,2018
+238,i20,Petrol,774784,Hatchback,2018
+239,Alcazar,Petrol,1472650,SUV,2018
+240,Venue,Diesel,1104841,SUV,2019
+241,Verna,Petrol,1273525,Sedan,2019
+242,Tucson,Petrol,1959747,SUV,2016
+243,Verna,Petrol,1004723,Sedan,2016
+244,Creta,Petrol,2366493,SUV,2015
+245,Verna,Diesel,1118544,Sedan,2022
+246,Santro,Petrol,742288,Hatchback,2022
+247,i20,Diesel,833680,Hatchback,2016
+248,Elantra,Petrol,1322144,Sedan,2021
+249,Alcazar,Petrol,1621487,SUV,2015
+250,i20,Diesel,721536,Hatchback,2016
+251,i10,Diesel,817856,Hatchback,2020
+252,Alcazar,Diesel,2267269,SUV,2015
+253,Aura,Diesel,1420107,Sedan,2015
+254,Alcazar,Petrol,1844626,SUV,2017
+255,Verna,Petrol,943657,Sedan,2021
+256,Alcazar,Diesel,2308426,SUV,2015
+257,Grand i10 Nios,Diesel,805446,Hatchback,2021
+258,Grand i10 Nios,Diesel,693997,Hatchback,2021
+259,i20,Diesel,594619,Hatchback,2015
+260,Tucson,Petrol,1462160,SUV,2019
+261,Tucson,Diesel,1071407,SUV,2020
+262,Venue,Petrol,2269020,SUV,2015
+263,i20,Diesel,577807,Hatchback,2021
+264,Ioniq,Electric,2817888,Electric,2021
+265,Ioniq 5,Electric,3016892,Electric,2019
+266,Creta,Diesel,2327105,SUV,2021
+267,Venue,Petrol,1892844,SUV,2020
+268,Alcazar,Diesel,1861988,SUV,2015
+269,Elantra,Petrol,1183661,Sedan,2017
+270,Kona Electric,Electric,3251101,Electric,2017
+271,Aura,Diesel,1371264,Sedan,2019
+272,Ioniq 5,Electric,4527614,Electric,2018
+273,Creta,Diesel,1254612,SUV,2016
+274,Ioniq,Electric,4086657,Electric,2022
+275,i20,Petrol,873593,Hatchback,2022
+276,Kona,Petrol,2224503,SUV,2021
+277,Alcazar,Diesel,1502953,SUV,2019
+278,i20,Petrol,663495,Hatchback,2021
+279,Ioniq,Electric,3976409,Electric,2022
+280,Santro,Diesel,582728,Hatchback,2017
+281,Ioniq 5,Electric,2372492,Electric,2022
+282,Elantra,Petrol,1276119,Sedan,2021
+283,Santro,Diesel,703716,Hatchback,2018
+284,Tucson,Petrol,1762680,SUV,2018
+285,Grand i10 Nios,Petrol,697774,Hatchback,2017
+286,Verna,Diesel,1211692,Sedan,2022
+287,Venue,Petrol,1348662,SUV,2020
+288,Ioniq,Electric,3378186,Electric,2021
+289,Kona Electric,Electric,2113411,Electric,2021
+290,Kona,Petrol,2300037,SUV,2018
+291,Venue,Petrol,1899300,SUV,2021
+292,Venue,Diesel,1073855,SUV,2016
+293,Santro,Diesel,762892,Hatchback,2022
+294,Alcazar,Petrol,2193615,SUV,2022
+295,Ioniq 5,Electric,4990723,Electric,2015
+296,Verna,Diesel,1060472,Sedan,2017
+297,i10,Diesel,672054,Hatchback,2018
+298,Kona Electric,Electric,4528969,Electric,2022
+299,Tucson,Petrol,1748274,SUV,2022
+300,Verna,Diesel,1109005,Sedan,2018
+301,Creta,Diesel,1306609,SUV,2022
+302,Tucson,Petrol,1386173,SUV,2022
+303,Santro,Petrol,665984,Hatchback,2021
+304,Kona,Petrol,1625151,SUV,2020
+305,Kona Electric,Electric,2850035,Electric,2019
+306,Elantra,Diesel,971725,Sedan,2020
+307,Alcazar,Petrol,2285376,SUV,2017
+308,Tucson,Petrol,2229197,SUV,2017
+309,Santro,Diesel,627447,Hatchback,2018
+310,i20,Petrol,615353,Hatchback,2018
+311,Kona Electric,Electric,2918065,Electric,2022
+312,Alcazar,Diesel,1124018,SUV,2018
+313,Tucson,Petrol,1225703,SUV,2019
+314,Kona Electric,Electric,3142610,Electric,2015
+315,Ioniq,Electric,2202449,Electric,2016
+316,Verna,Petrol,1025252,Sedan,2021
+317,Kona,Diesel,1783247,SUV,2018
+318,Creta,Petrol,1421072,SUV,2015
+319,Verna,Diesel,1035513,Sedan,2020
+320,i10,Diesel,786241,Hatchback,2015
+321,Aura,Petrol,974820,Sedan,2016
+322,i10,Petrol,891597,Hatchback,2021
+323,Kona,Petrol,1048181,SUV,2017
+324,Kona Electric,Electric,3673009,Electric,2015
+325,Aura,Petrol,1385346,Sedan,2015
+326,Kona Electric,Electric,3594770,Electric,2016
+327,Elantra,Diesel,951802,Sedan,2022
+328,Kona,Diesel,2072988,SUV,2015
+329,Elantra,Diesel,1344061,Sedan,2021
+330,Venue,Petrol,1162539,SUV,2022
+331,Alcazar,Petrol,2012764,SUV,2017
+332,Alcazar,Petrol,2353194,SUV,2016
+333,Alcazar,Petrol,1420518,SUV,2020
+334,Aura,Diesel,973309,Sedan,2015
+335,Verna,Diesel,1334581,Sedan,2017
+336,Santro,Diesel,663939,Hatchback,2019
+337,Grand i10 Nios,Diesel,861137,Hatchback,2020
+338,Elantra,Diesel,1215896,Sedan,2019
+339,i10,Diesel,591516,Hatchback,2019
+340,Kona,Diesel,2443180,SUV,2020
+341,Ioniq 5,Electric,4789556,Electric,2018
+342,Verna,Diesel,1076825,Sedan,2017
+343,Ioniq,Electric,3265045,Electric,2017
+344,Venue,Petrol,1767061,SUV,2021
+345,Aura,Diesel,1267020,Sedan,2021
+346,i20,Diesel,515179,Hatchback,2020
+347,Kona Electric,Electric,2040933,Electric,2019
+348,Ioniq,Electric,2058468,Electric,2022
+349,Ioniq 5,Electric,3470030,Electric,2022
+350,i10,Petrol,799462,Hatchback,2018
+351,Aura,Petrol,1112943,Sedan,2015
+352,Tucson,Petrol,1860269,SUV,2015
+353,Venue,Petrol,1662774,SUV,2020
+354,Elantra,Diesel,1004264,Sedan,2022
+355,i10,Petrol,738855,Hatchback,2020
+356,Grand i10 Nios,Petrol,899258,Hatchback,2019
+357,Aura,Diesel,1224740,Sedan,2015
+358,i10,Petrol,808404,Hatchback,2019
+359,Aura,Diesel,1370301,Sedan,2021
+360,Kona,Diesel,2219517,SUV,2017
+361,i10,Diesel,550303,Hatchback,2016
+362,Elantra,Diesel,1016482,Sedan,2021
+363,Verna,Petrol,1270593,Sedan,2019
+364,i10,Diesel,585997,Hatchback,2018
+365,i20,Diesel,821277,Hatchback,2021
+366,Creta,Diesel,1921137,SUV,2015
+367,Santro,Petrol,591944,Hatchback,2017
+368,Creta,Diesel,2186643,SUV,2016
+369,Ioniq,Electric,2139017,Electric,2019
+370,Verna,Petrol,1375625,Sedan,2022
+371,Kona Electric,Electric,4077815,Electric,2019
+372,Santro,Diesel,597422,Hatchback,2020
+373,Ioniq 5,Electric,4497196,Electric,2017
+374,Santro,Diesel,823536,Hatchback,2016
+375,i20,Diesel,547073,Hatchback,2017
+376,i20,Diesel,509193,Hatchback,2015
+377,Kona,Petrol,1636115,SUV,2018
+378,Elantra,Diesel,905603,Sedan,2022
+379,Grand i10 Nios,Diesel,510620,Hatchback,2022
+380,Grand i10 Nios,Diesel,863704,Hatchback,2022
+381,Alcazar,Petrol,2225279,SUV,2018
+382,Santro,Petrol,759188,Hatchback,2020
+383,Alcazar,Diesel,1710594,SUV,2015
+384,Kona,Diesel,1612188,SUV,2022
+385,Santro,Petrol,629376,Hatchback,2020
+386,Ioniq,Electric,2035473,Electric,2017
+387,Verna,Petrol,1072771,Sedan,2017
+388,Ioniq,Electric,2436335,Electric,2018
+389,Alcazar,Petrol,1179034,SUV,2021
+390,Santro,Petrol,809544,Hatchback,2016
+391,Alcazar,Diesel,2225888,SUV,2019
+392,Ioniq 5,Electric,4414833,Electric,2017
+393,Alcazar,Petrol,1027912,SUV,2016
+394,Ioniq,Electric,3942431,Electric,2017
+395,Venue,Petrol,1254638,SUV,2022
+396,Santro,Petrol,721898,Hatchback,2022
+397,Venue,Diesel,1028667,SUV,2021
+398,Verna,Petrol,1174074,Sedan,2016
+399,Elantra,Petrol,1238196,Sedan,2019
+400,Venue,Diesel,1450092,SUV,2019
+401,Kona,Diesel,2352588,SUV,2016
+402,Kona,Diesel,1389291,SUV,2021
+403,Aura,Petrol,1218137,Sedan,2020
+404,Santro,Petrol,802244,Hatchback,2020
+405,Creta,Diesel,1046189,SUV,2020
+406,Santro,Diesel,770625,Hatchback,2021
+407,Aura,Petrol,1083184,Sedan,2018
+408,Santro,Diesel,859524,Hatchback,2016
+409,Venue,Petrol,1081862,SUV,2022
+410,Verna,Diesel,1266582,Sedan,2021
+411,Kona Electric,Electric,3675470,Electric,2022
+412,Ioniq,Electric,2362741,Electric,2022
+413,Elantra,Petrol,1029332,Sedan,2020
+414,Ioniq 5,Electric,4180135,Electric,2020
+415,i20,Petrol,599352,Hatchback,2021
+416,Grand i10 Nios,Diesel,845644,Hatchback,2019
+417,Ioniq,Electric,3788479,Electric,2018
+418,Grand i10 Nios,Diesel,880941,Hatchback,2016
+419,i10,Diesel,737366,Hatchback,2016
+420,Ioniq 5,Electric,3583640,Electric,2021
+421,i20,Petrol,753487,Hatchback,2020
+422,Tucson,Petrol,1552216,SUV,2015
+423,Grand i10 Nios,Diesel,613996,Hatchback,2016
+424,Grand i10 Nios,Diesel,634651,Hatchback,2018
+425,i20,Petrol,670932,Hatchback,2018
+426,Elantra,Diesel,955122,Sedan,2015
+427,Creta,Petrol,1842688,SUV,2021
+428,Grand i10 Nios,Diesel,788876,Hatchback,2018
+429,Tucson,Petrol,2426726,SUV,2018
+430,Creta,Petrol,1301545,SUV,2015
+431,Alcazar,Diesel,2301300,SUV,2022
+432,Aura,Diesel,1448137,Sedan,2017
+433,Ioniq,Electric,3346496,Electric,2021
+434,Santro,Petrol,730257,Hatchback,2019
+435,i10,Petrol,618749,Hatchback,2016
+436,Grand i10 Nios,Petrol,740697,Hatchback,2020
+437,Aura,Diesel,1241686,Sedan,2015
+438,i20,Petrol,761823,Hatchback,2015
+439,Tucson,Petrol,1519219,SUV,2017
+440,Creta,Diesel,1020212,SUV,2021
+441,Ioniq 5,Electric,3679536,Electric,2021
+442,Ioniq 5,Electric,4799918,Electric,2019
+443,Grand i10 Nios,Petrol,765870,Hatchback,2016
+444,Alcazar,Diesel,1214626,SUV,2021
+445,Tucson,Diesel,1665565,SUV,2021
+446,Aura,Diesel,948949,Sedan,2015
+447,i20,Diesel,842979,Hatchback,2022
+448,Santro,Diesel,881168,Hatchback,2018
+449,i20,Diesel,646494,Hatchback,2019
+450,Alcazar,Petrol,1406396,SUV,2019
+451,Santro,Diesel,655660,Hatchback,2016
+452,Ioniq,Electric,3599446,Electric,2018
+453,Aura,Petrol,1222392,Sedan,2022
+454,Venue,Diesel,2158608,SUV,2021
+455,i20,Diesel,888024,Hatchback,2018
+456,Venue,Diesel,2195003,SUV,2015
+457,Santro,Petrol,735756,Hatchback,2018
+458,Santro,Diesel,668018,Hatchback,2021
+459,Ioniq 5,Electric,3222068,Electric,2017
+460,Ioniq 5,Electric,3756969,Electric,2018
+461,Ioniq 5,Electric,4782015,Electric,2020
+462,Kona Electric,Electric,4779667,Electric,2021
+463,Verna,Diesel,1459266,Sedan,2015
+464,Venue,Petrol,1140411,SUV,2016
+465,Ioniq 5,Electric,2425761,Electric,2022
+466,Ioniq,Electric,3292924,Electric,2018
+467,Ioniq 5,Electric,4933926,Electric,2022
+468,Ioniq 5,Electric,4187439,Electric,2017
+469,Kona,Petrol,1429793,SUV,2016
+470,Kona Electric,Electric,4546045,Electric,2022
+471,Ioniq 5,Electric,3204590,Electric,2019
+472,Elantra,Petrol,932770,Sedan,2022
+473,Santro,Petrol,649068,Hatchback,2015
+474,Tucson,Diesel,1301472,SUV,2015
+475,Creta,Petrol,2172500,SUV,2020
+476,Tucson,Petrol,1141729,SUV,2020
+477,Santro,Petrol,630397,Hatchback,2020
+478,Kona Electric,Electric,3253355,Electric,2017
+479,Creta,Diesel,1123064,SUV,2016
+480,Aura,Petrol,1113082,Sedan,2020
+481,Ioniq,Electric,2153462,Electric,2020
+482,Alcazar,Diesel,1637991,SUV,2018
+483,Ioniq,Electric,3205864,Electric,2015
+484,Kona Electric,Electric,3488679,Electric,2020
+485,Kona Electric,Electric,3744636,Electric,2019
+486,Elantra,Petrol,1285704,Sedan,2021
+487,Alcazar,Petrol,2498560,SUV,2016
+488,Creta,Petrol,2319233,SUV,2016
+489,Elantra,Petrol,1193906,Sedan,2022
+490,Tucson,Diesel,2005438,SUV,2020
+491,Verna,Petrol,1390474,Sedan,2015
+492,Elantra,Petrol,1019715,Sedan,2017
+493,Venue,Diesel,1425301,SUV,2019
+494,Ioniq 5,Electric,2711684,Electric,2016
+495,Ioniq 5,Electric,4425072,Electric,2015
+496,Tucson,Petrol,1607895,SUV,2019
+497,Kona Electric,Electric,4497713,Electric,2015
+498,Ioniq 5,Electric,2763358,Electric,2018
+499,Alcazar,Diesel,2278534,SUV,2015
+500,Venue,Diesel,2101035,SUV,2015
+501,Venue,Diesel,1051876,SUV,2020
+502,Creta,Petrol,1879869,SUV,2019
+503,Verna,Petrol,1263371,Sedan,2020
+504,Venue,Diesel,2465527,SUV,2015
+505,Kona Electric,Electric,3186974,Electric,2017
+506,Santro,Petrol,878003,Hatchback,2019
+507,i10,Petrol,717743,Hatchback,2022
+508,Elantra,Petrol,1246125,Sedan,2015
+509,Ioniq,Electric,4514099,Electric,2015
+510,i10,Diesel,505182,Hatchback,2022
+511,Alcazar,Diesel,1578170,SUV,2021
+512,Kona Electric,Electric,2512849,Electric,2017
+513,i20,Petrol,882471,Hatchback,2020
+514,Venue,Petrol,2474740,SUV,2018
+515,Venue,Petrol,1475137,SUV,2015
+516,Alcazar,Petrol,2061514,SUV,2022
+517,Grand i10 Nios,Petrol,834878,Hatchback,2019
+518,i20,Petrol,700117,Hatchback,2015
+519,Kona Electric,Electric,3320981,Electric,2022
+520,Ioniq 5,Electric,3206601,Electric,2020
+521,Kona,Diesel,1365635,SUV,2018
+522,Kona Electric,Electric,3206570,Electric,2018
+523,Creta,Petrol,1578492,SUV,2021
+524,Santro,Diesel,756552,Hatchback,2019
+525,Ioniq 5,Electric,3580920,Electric,2015
+526,Elantra,Petrol,911007,Sedan,2019
+527,Kona Electric,Electric,3328286,Electric,2017
+528,Grand i10 Nios,Petrol,646820,Hatchback,2016
+529,Tucson,Petrol,1556507,SUV,2017
+530,i10,Diesel,885874,Hatchback,2018
+531,Grand i10 Nios,Petrol,780907,Hatchback,2016
+532,Grand i10 Nios,Diesel,506614,Hatchback,2015
+533,Ioniq 5,Electric,3641065,Electric,2017
+534,Venue,Diesel,2476135,SUV,2016
+535,Elantra,Diesel,995288,Sedan,2022
+536,Grand i10 Nios,Petrol,720984,Hatchback,2022
+537,Creta,Petrol,1596838,SUV,2018
+538,Tucson,Petrol,1058678,SUV,2022
+539,Kona Electric,Electric,4955797,Electric,2018
+540,Santro,Petrol,726886,Hatchback,2020
+541,Kona,Diesel,2071035,SUV,2015
+542,Alcazar,Petrol,1947704,SUV,2018
+543,Venue,Diesel,1861034,SUV,2020
+544,Grand i10 Nios,Diesel,644776,Hatchback,2015
+545,i20,Petrol,515872,Hatchback,2016
+546,Verna,Diesel,1226946,Sedan,2020
+547,Creta,Petrol,2132255,SUV,2016
+548,Grand i10 Nios,Diesel,539333,Hatchback,2022
+549,Verna,Diesel,1064532,Sedan,2018
+550,i10,Diesel,679489,Hatchback,2020
+551,Creta,Diesel,1511961,SUV,2018
+552,Elantra,Petrol,1428176,Sedan,2020
+553,Ioniq,Electric,4631420,Electric,2020
+554,Ioniq,Electric,4933710,Electric,2021
+555,Elantra,Diesel,1183982,Sedan,2019
+556,Verna,Petrol,1212660,Sedan,2022
+557,Ioniq 5,Electric,3564136,Electric,2016
+558,Elantra,Petrol,1317986,Sedan,2022
+559,i10,Diesel,817081,Hatchback,2017
+560,Aura,Petrol,1137934,Sedan,2021
+561,Ioniq,Electric,3213106,Electric,2016
+562,Ioniq,Electric,4386265,Electric,2019
+563,Aura,Petrol,1119579,Sedan,2017
+564,Venue,Petrol,1665551,SUV,2022
+565,Tucson,Diesel,1738821,SUV,2021
+566,Ioniq 5,Electric,4182366,Electric,2017
+567,Alcazar,Diesel,1877197,SUV,2020
+568,i20,Diesel,615900,Hatchback,2019
+569,Grand i10 Nios,Diesel,554216,Hatchback,2016
+570,Tucson,Diesel,1463993,SUV,2019
+571,Elantra,Petrol,1194524,Sedan,2022
+572,Ioniq,Electric,2776428,Electric,2020
+573,Alcazar,Diesel,1947268,SUV,2020
+574,Tucson,Diesel,2228463,SUV,2017
+575,i10,Petrol,802632,Hatchback,2019
+576,i10,Diesel,636494,Hatchback,2016
+577,Kona,Petrol,2234852,SUV,2022
+578,Creta,Petrol,2382932,SUV,2019
+579,Elantra,Diesel,1235859,Sedan,2022
+580,Tucson,Petrol,1071053,SUV,2022
+581,i10,Diesel,573343,Hatchback,2016
+582,Kona Electric,Electric,4059726,Electric,2017
+583,Tucson,Petrol,1891724,SUV,2019
+584,Santro,Petrol,839995,Hatchback,2016
+585,Verna,Diesel,1321667,Sedan,2019
+586,Kona Electric,Electric,4516343,Electric,2019
+587,Ioniq 5,Electric,4865895,Electric,2020
+588,Kona Electric,Electric,3553140,Electric,2018
+589,Kona Electric,Electric,3777425,Electric,2017
+590,Alcazar,Diesel,1066511,SUV,2019
+591,i10,Petrol,875159,Hatchback,2016
+592,Creta,Diesel,1781465,SUV,2015
+593,i10,Petrol,710939,Hatchback,2015
+594,Alcazar,Diesel,2199871,SUV,2019
+595,Venue,Petrol,2455722,SUV,2017
+596,Aura,Petrol,1404401,Sedan,2020
+597,Kona,Diesel,1907535,SUV,2020
+598,Verna,Diesel,1377070,Sedan,2020
+599,Tucson,Diesel,2047489,SUV,2016
+600,Tucson,Petrol,2145270,SUV,2017
+601,i10,Diesel,516261,Hatchback,2021
+602,Aura,Petrol,1254582,Sedan,2016
+603,Verna,Diesel,1414777,Sedan,2016
+604,i20,Petrol,850522,Hatchback,2020
+605,i20,Diesel,530411,Hatchback,2022
+606,Santro,Petrol,718437,Hatchback,2020
+607,Ioniq,Electric,4458088,Electric,2016
+608,Ioniq 5,Electric,4016706,Electric,2016
+609,Aura,Diesel,1170394,Sedan,2018
+610,Alcazar,Petrol,1714167,SUV,2015
+611,Ioniq,Electric,4475329,Electric,2019
+612,Aura,Petrol,1093043,Sedan,2016
+613,Kona Electric,Electric,3095969,Electric,2021
+614,Santro,Petrol,655847,Hatchback,2015
+615,Creta,Petrol,1869505,SUV,2018
+616,Grand i10 Nios,Petrol,520273,Hatchback,2022
+617,Tucson,Petrol,1167572,SUV,2018
+618,Alcazar,Diesel,2309652,SUV,2017
+619,Verna,Diesel,1342295,Sedan,2016
+620,Creta,Petrol,2313510,SUV,2020
+621,Grand i10 Nios,Diesel,531528,Hatchback,2021
+622,Venue,Petrol,1414989,SUV,2022
+623,Venue,Diesel,1760520,SUV,2017
+624,Verna,Diesel,1044131,Sedan,2016
+625,Kona Electric,Electric,4081064,Electric,2016
+626,Santro,Petrol,731466,Hatchback,2021
+627,Aura,Diesel,1165994,Sedan,2021
+628,Ioniq,Electric,3083555,Electric,2015
+629,Kona,Petrol,1746448,SUV,2019
+630,Ioniq 5,Electric,4246306,Electric,2018
+631,Elantra,Petrol,1055259,Sedan,2020
+632,i20,Petrol,559459,Hatchback,2020
+633,Aura,Petrol,929445,Sedan,2019
+634,Kona Electric,Electric,2276364,Electric,2021
+635,Ioniq,Electric,4117198,Electric,2017
+636,Alcazar,Diesel,1677199,SUV,2016
+637,Ioniq,Electric,4756840,Electric,2018
+638,Kona Electric,Electric,4844824,Electric,2015
+639,Ioniq,Electric,2253368,Electric,2019
+640,i10,Petrol,514955,Hatchback,2021
+641,Venue,Diesel,1863477,SUV,2017
+642,Ioniq 5,Electric,4500009,Electric,2015
+643,Aura,Petrol,935853,Sedan,2020
+644,Ioniq,Electric,2967796,Electric,2015
+645,Kona Electric,Electric,4651439,Electric,2019
+646,Elantra,Diesel,919153,Sedan,2018
+647,Venue,Petrol,1966716,SUV,2015
+648,Venue,Diesel,1877838,SUV,2015
+649,Elantra,Diesel,937570,Sedan,2018
+650,Tucson,Petrol,1522821,SUV,2017
+651,Aura,Diesel,1076918,Sedan,2016
+652,Verna,Petrol,1129656,Sedan,2021
+653,Creta,Petrol,2077385,SUV,2018
+654,i10,Diesel,715488,Hatchback,2018
+655,Ioniq,Electric,4577004,Electric,2022
+656,Tucson,Petrol,1008713,SUV,2022
+657,Ioniq 5,Electric,4560872,Electric,2019
+658,Elantra,Diesel,1276650,Sedan,2015
+659,Kona Electric,Electric,4992049,Electric,2015
+660,Ioniq,Electric,4760871,Electric,2018
+661,i20,Diesel,587187,Hatchback,2017
+662,Kona,Petrol,1449008,SUV,2018
+663,Elantra,Diesel,1252216,Sedan,2017
+664,Elantra,Petrol,984591,Sedan,2019
+665,Grand i10 Nios,Diesel,865644,Hatchback,2018
+666,Venue,Diesel,1711199,SUV,2016
+667,Alcazar,Diesel,2186895,SUV,2016
+668,Elantra,Petrol,977596,Sedan,2019
+669,Ioniq 5,Electric,3293258,Electric,2019
+670,Verna,Diesel,964809,Sedan,2022
+671,Elantra,Diesel,972064,Sedan,2015
+672,Tucson,Diesel,2438283,SUV,2019
+673,Aura,Diesel,1408550,Sedan,2017
+674,Alcazar,Diesel,1965873,SUV,2019
+675,Tucson,Diesel,2311981,SUV,2015
+676,Kona Electric,Electric,4938397,Electric,2021
+677,Venue,Diesel,2351528,SUV,2019
+678,Aura,Petrol,1489333,Sedan,2016
+679,Elantra,Petrol,1410435,Sedan,2016
+680,Santro,Petrol,519595,Hatchback,2017
+681,Ioniq,Electric,3075164,Electric,2019
+682,Creta,Petrol,2221452,SUV,2016
+683,i20,Diesel,852093,Hatchback,2015
+684,i10,Petrol,704455,Hatchback,2017
+685,Kona,Petrol,1631824,SUV,2022
+686,i10,Diesel,700288,Hatchback,2021
+687,Ioniq,Electric,2928270,Electric,2022
+688,Tucson,Diesel,1871748,SUV,2016
+689,Aura,Diesel,1302005,Sedan,2021
+690,Ioniq 5,Electric,3549715,Electric,2020
+691,i10,Petrol,548056,Hatchback,2019
+692,Kona,Petrol,1088054,SUV,2017
+693,Santro,Diesel,598997,Hatchback,2016
+694,Kona,Diesel,1628675,SUV,2018
+695,Alcazar,Petrol,1991294,SUV,2018
+696,Tucson,Petrol,1469382,SUV,2018
+697,Grand i10 Nios,Petrol,524522,Hatchback,2019
+698,Santro,Diesel,809977,Hatchback,2022
+699,Venue,Diesel,1935162,SUV,2017
+700,Alcazar,Diesel,2437292,SUV,2019
+701,Venue,Petrol,2387152,SUV,2017
+702,Kona Electric,Electric,3413049,Electric,2022
+703,i10,Petrol,750735,Hatchback,2021
+704,Venue,Diesel,2492032,SUV,2017
+705,i10,Petrol,538530,Hatchback,2017
+706,Verna,Petrol,1467809,Sedan,2018
+707,Ioniq 5,Electric,2210800,Electric,2021
+708,Ioniq 5,Electric,4484994,Electric,2015
+709,Ioniq,Electric,3203771,Electric,2015
+710,Kona,Petrol,1056056,SUV,2020
+711,Elantra,Diesel,1429764,Sedan,2017
+712,Tucson,Diesel,1800169,SUV,2020
+713,i20,Petrol,565990,Hatchback,2021
+714,Kona,Petrol,2482301,SUV,2020
+715,i20,Diesel,538113,Hatchback,2018
+716,Kona,Diesel,1316474,SUV,2017
+717,Alcazar,Diesel,2192343,SUV,2021
+718,Santro,Diesel,891415,Hatchback,2016
+719,Creta,Petrol,1917067,SUV,2015
+720,Grand i10 Nios,Diesel,614103,Hatchback,2022
+721,Verna,Diesel,1452842,Sedan,2015
+722,Verna,Diesel,1044617,Sedan,2016
+723,Tucson,Petrol,2229190,SUV,2022
+724,Grand i10 Nios,Petrol,609109,Hatchback,2016
+725,Kona Electric,Electric,2879853,Electric,2016
+726,Kona,Diesel,2349841,SUV,2019
+727,Kona,Petrol,2219068,SUV,2015
+728,Verna,Diesel,1296058,Sedan,2018
+729,Ioniq 5,Electric,3019540,Electric,2018
+730,Ioniq,Electric,4789238,Electric,2016
+731,Kona Electric,Electric,2695809,Electric,2020
+732,Santro,Petrol,872291,Hatchback,2018
+733,Kona,Petrol,2036442,SUV,2018
+734,Santro,Petrol,647343,Hatchback,2021
+735,Kona Electric,Electric,2818889,Electric,2015
+736,Tucson,Petrol,2326000,SUV,2021
+737,Tucson,Petrol,1651463,SUV,2020
+738,Santro,Diesel,804798,Hatchback,2021
+739,Kona,Petrol,2383352,SUV,2016
+740,Grand i10 Nios,Petrol,695098,Hatchback,2020
+741,Verna,Petrol,1307069,Sedan,2020
+742,Creta,Diesel,1666505,SUV,2018
+743,Ioniq 5,Electric,2213858,Electric,2020
+744,Elantra,Petrol,1343942,Sedan,2015
+745,Alcazar,Petrol,1884128,SUV,2020
+746,Ioniq,Electric,2310013,Electric,2020
+747,Kona Electric,Electric,4214430,Electric,2016
+748,i10,Diesel,821892,Hatchback,2015
+749,Santro,Diesel,619681,Hatchback,2017
+750,Elantra,Petrol,1458639,Sedan,2021
+751,Ioniq,Electric,2143659,Electric,2021
+752,Elantra,Petrol,1200415,Sedan,2021
+753,Santro,Diesel,675061,Hatchback,2022
+754,Venue,Diesel,1643327,SUV,2022
+755,i10,Diesel,696242,Hatchback,2020
+756,Elantra,Petrol,1145970,Sedan,2016
+757,Elantra,Diesel,1380979,Sedan,2019
+758,Ioniq 5,Electric,4601442,Electric,2015
+759,Tucson,Diesel,1153704,SUV,2022
+760,Aura,Petrol,1159450,Sedan,2016
+761,Alcazar,Diesel,1861636,SUV,2016
+762,Tucson,Diesel,2049662,SUV,2017
+763,Kona Electric,Electric,2346011,Electric,2018
+764,Ioniq 5,Electric,4652852,Electric,2017
+765,Tucson,Petrol,2392211,SUV,2021
+766,Kona,Petrol,1799698,SUV,2018
+767,Kona Electric,Electric,2328161,Electric,2017
+768,Venue,Diesel,1564927,SUV,2017
+769,Ioniq,Electric,2468540,Electric,2021
+770,Alcazar,Petrol,2087626,SUV,2020
+771,Venue,Petrol,1420497,SUV,2015
+772,Aura,Diesel,1272844,Sedan,2015
+773,Tucson,Petrol,2356448,SUV,2019
+774,i10,Diesel,786371,Hatchback,2021
+775,Alcazar,Diesel,1044235,SUV,2017
+776,i10,Petrol,604620,Hatchback,2020
+777,Venue,Diesel,1344379,SUV,2019
+778,Grand i10 Nios,Petrol,788244,Hatchback,2017
+779,Ioniq,Electric,4009236,Electric,2022
+780,Kona,Petrol,1053536,SUV,2021
+781,Ioniq,Electric,2205127,Electric,2017
+782,Elantra,Petrol,1258515,Sedan,2020
+783,Kona Electric,Electric,4938657,Electric,2018
+784,Venue,Petrol,1300445,SUV,2019
+785,i10,Petrol,796328,Hatchback,2021
+786,Tucson,Petrol,2000607,SUV,2017
+787,Elantra,Diesel,1008321,Sedan,2016
+788,Kona Electric,Electric,3094684,Electric,2019
+789,Ioniq,Electric,3998408,Electric,2017
+790,Venue,Diesel,1809421,SUV,2019
+791,Aura,Petrol,1187377,Sedan,2016
+792,Kona,Diesel,1019179,SUV,2016
+793,i10,Petrol,559457,Hatchback,2021
+794,Grand i10 Nios,Diesel,572411,Hatchback,2017
+795,Grand i10 Nios,Petrol,581553,Hatchback,2022
+796,Venue,Petrol,1088062,SUV,2019
+797,Ioniq,Electric,3939609,Electric,2021
+798,i10,Diesel,685432,Hatchback,2018
+799,Aura,Petrol,1420366,Sedan,2022
+800,Elantra,Diesel,1155308,Sedan,2017
+801,i20,Petrol,539286,Hatchback,2021
+802,Verna,Petrol,1433285,Sedan,2015
+803,Ioniq,Electric,2592371,Electric,2015
+804,Kona,Diesel,1255554,SUV,2016
+805,Venue,Diesel,1736515,SUV,2021
+806,Ioniq 5,Electric,4331758,Electric,2019
+807,Venue,Petrol,1312605,SUV,2020
+808,Venue,Petrol,1948862,SUV,2019
+809,Grand i10 Nios,Diesel,740484,Hatchback,2020
+810,Ioniq 5,Electric,4317136,Electric,2016
+811,Tucson,Petrol,1858260,SUV,2015
+812,Tucson,Petrol,1038372,SUV,2020
+813,Venue,Petrol,1946955,SUV,2017
+814,Kona,Petrol,2493861,SUV,2020
+815,i20,Diesel,624897,Hatchback,2022
+816,Aura,Diesel,1210828,Sedan,2019
+817,Verna,Diesel,1218482,Sedan,2019
+818,Alcazar,Diesel,1777940,SUV,2018
+819,Elantra,Diesel,1338000,Sedan,2019
+820,Verna,Diesel,1063146,Sedan,2016
+821,Grand i10 Nios,Petrol,670152,Hatchback,2018
+822,Grand i10 Nios,Diesel,730378,Hatchback,2015
+823,Grand i10 Nios,Diesel,863818,Hatchback,2016
+824,Kona,Diesel,1766595,SUV,2018
+825,Elantra,Petrol,1461061,Sedan,2018
+826,Santro,Petrol,541960,Hatchback,2018
+827,Kona,Petrol,1427617,SUV,2015
+828,Aura,Petrol,943753,Sedan,2021
+829,Tucson,Diesel,2105853,SUV,2017
+830,Ioniq,Electric,3152978,Electric,2016
+831,Santro,Petrol,692389,Hatchback,2018
+832,Venue,Diesel,2423874,SUV,2022
+833,Santro,Petrol,817193,Hatchback,2019
+834,Ioniq,Electric,3367137,Electric,2021
+835,Venue,Petrol,1781072,SUV,2018
+836,Aura,Petrol,1073155,Sedan,2017
+837,Alcazar,Petrol,2382536,SUV,2018
+838,Kona,Diesel,1532490,SUV,2021
+839,i10,Diesel,892532,Hatchback,2022
+840,Creta,Diesel,2471358,SUV,2018
+841,Verna,Petrol,1272275,Sedan,2015
+842,i20,Diesel,649164,Hatchback,2021
+843,i20,Petrol,742782,Hatchback,2017
+844,Verna,Diesel,1365451,Sedan,2017
+845,Elantra,Petrol,1074216,Sedan,2017
+846,Kona Electric,Electric,3913187,Electric,2015
+847,Creta,Petrol,2336068,SUV,2019
+848,Verna,Diesel,1385039,Sedan,2022
+849,Creta,Petrol,2490003,SUV,2021
+850,Aura,Diesel,915460,Sedan,2018
+851,Tucson,Petrol,1213858,SUV,2016
+852,Santro,Petrol,719107,Hatchback,2015
+853,i10,Diesel,583675,Hatchback,2019
+854,i20,Petrol,696167,Hatchback,2016
+855,Grand i10 Nios,Petrol,788204,Hatchback,2015
+856,Grand i10 Nios,Diesel,550292,Hatchback,2018
+857,Venue,Petrol,2289318,SUV,2016
+858,Ioniq 5,Electric,2197762,Electric,2020
+859,i10,Diesel,775626,Hatchback,2022
+860,Elantra,Petrol,1100413,Sedan,2018
+861,Grand i10 Nios,Diesel,789834,Hatchback,2022
+862,Creta,Petrol,1543954,SUV,2022
+863,Tucson,Petrol,1041969,SUV,2019
+864,Ioniq,Electric,2648145,Electric,2019
+865,Ioniq 5,Electric,3095102,Electric,2016
+866,Aura,Petrol,1474098,Sedan,2016
+867,Aura,Diesel,1141347,Sedan,2022
+868,Ioniq 5,Electric,4733247,Electric,2020
+869,Kona Electric,Electric,4399064,Electric,2020
+870,i10,Diesel,845300,Hatchback,2022
+871,Ioniq,Electric,3758377,Electric,2015
+872,Kona Electric,Electric,4872873,Electric,2017
+873,Aura,Petrol,915720,Sedan,2018
+874,i10,Petrol,853275,Hatchback,2019
+875,i10,Petrol,838168,Hatchback,2015
+876,i10,Diesel,837992,Hatchback,2022
+877,Kona Electric,Electric,3017539,Electric,2016
+878,i20,Diesel,815883,Hatchback,2022
+879,Venue,Diesel,2119133,SUV,2017
+880,Kona,Diesel,1116870,SUV,2021
+881,Grand i10 Nios,Diesel,619514,Hatchback,2016
+882,Elantra,Petrol,1452914,Sedan,2015
+883,Kona,Diesel,2164757,SUV,2018
+884,Verna,Petrol,960340,Sedan,2017
+885,Tucson,Diesel,1811424,SUV,2020
+886,Tucson,Diesel,1383618,SUV,2017
+887,Santro,Diesel,710349,Hatchback,2021
+888,Venue,Diesel,1780290,SUV,2018
+889,Santro,Petrol,515059,Hatchback,2015
+890,Alcazar,Diesel,1569626,SUV,2015
+891,Santro,Diesel,888955,Hatchback,2018
+892,i10,Petrol,784873,Hatchback,2016
+893,i20,Petrol,692384,Hatchback,2020
+894,Tucson,Petrol,1256886,SUV,2021
+895,Ioniq,Electric,3494002,Electric,2015
+896,Creta,Diesel,2202459,SUV,2016
+897,Santro,Diesel,804134,Hatchback,2021
+898,Creta,Petrol,2193260,SUV,2020
+899,Verna,Diesel,1249749,Sedan,2018
+900,Verna,Diesel,1176828,Sedan,2017
+901,Grand i10 Nios,Petrol,885124,Hatchback,2021
+902,Santro,Petrol,646216,Hatchback,2015
+903,Ioniq,Electric,4485858,Electric,2022
+904,Verna,Petrol,1102268,Sedan,2021
+905,i20,Petrol,692326,Hatchback,2016
+906,Kona,Diesel,1287034,SUV,2020
+907,Tucson,Diesel,1940176,SUV,2015
+908,Kona Electric,Electric,4661513,Electric,2017
+909,Venue,Diesel,1175919,SUV,2020
+910,Verna,Petrol,1229866,Sedan,2017
+911,Elantra,Diesel,1441274,Sedan,2021
+912,Verna,Petrol,1382605,Sedan,2021
+913,Ioniq,Electric,4939489,Electric,2019
+914,Alcazar,Petrol,2090642,SUV,2017
+915,Alcazar,Diesel,1637654,SUV,2017
+916,Ioniq,Electric,3731161,Electric,2017
+917,Tucson,Diesel,1831574,SUV,2019
+918,Grand i10 Nios,Petrol,527013,Hatchback,2017
+919,Kona,Diesel,2450685,SUV,2022
+920,i20,Petrol,577936,Hatchback,2016
+921,Creta,Diesel,1963722,SUV,2015
+922,Aura,Petrol,1018062,Sedan,2021
+923,Santro,Petrol,573300,Hatchback,2022
+924,Kona,Diesel,1506341,SUV,2017
+925,Kona Electric,Electric,2556835,Electric,2021
+926,Creta,Diesel,1481791,SUV,2016
+927,Creta,Diesel,1384969,SUV,2021
+928,Kona Electric,Electric,2614327,Electric,2018
+929,Kona Electric,Electric,3897623,Electric,2019
+930,Tucson,Diesel,1725387,SUV,2017
+931,Kona Electric,Electric,4862479,Electric,2021
+932,Kona,Petrol,1376835,SUV,2019
+933,Kona Electric,Electric,2924464,Electric,2021
+934,Venue,Petrol,2428740,SUV,2019
+935,Creta,Diesel,2089379,SUV,2022
+936,Aura,Diesel,1208212,Sedan,2022
+937,Kona Electric,Electric,3770486,Electric,2022
+938,Ioniq,Electric,3888332,Electric,2018
+939,Tucson,Petrol,2217713,SUV,2019
+940,Kona,Diesel,2331683,SUV,2022
+941,Alcazar,Petrol,1563470,SUV,2022
+942,i20,Diesel,671407,Hatchback,2017
+943,Kona,Petrol,2376248,SUV,2019
+944,Grand i10 Nios,Diesel,813847,Hatchback,2016
+945,i20,Petrol,644580,Hatchback,2015
+946,Kona Electric,Electric,4390827,Electric,2017
+947,Verna,Petrol,949431,Sedan,2018
+948,Ioniq,Electric,2914170,Electric,2016
+949,Aura,Diesel,1011915,Sedan,2021
+950,Ioniq,Electric,4706524,Electric,2021
+951,Kona Electric,Electric,2180116,Electric,2019
+952,Alcazar,Diesel,2010931,SUV,2015
+953,Kona,Diesel,2281109,SUV,2022
+954,Grand i10 Nios,Petrol,814319,Hatchback,2015
+955,Tucson,Diesel,1918602,SUV,2022
+956,Creta,Diesel,2034491,SUV,2020
+957,Alcazar,Diesel,1738042,SUV,2018
+958,Grand i10 Nios,Diesel,838726,Hatchback,2022
+959,Aura,Diesel,1084086,Sedan,2020
+960,Alcazar,Petrol,1950362,SUV,2016
+961,Elantra,Petrol,1164012,Sedan,2018
+962,Tucson,Petrol,2108621,SUV,2016
+963,i10,Diesel,890330,Hatchback,2017
+964,Creta,Petrol,1259906,SUV,2022
+965,Kona Electric,Electric,3909595,Electric,2018
+966,Venue,Petrol,2197979,SUV,2018
+967,i20,Petrol,830354,Hatchback,2022
+968,i20,Diesel,708432,Hatchback,2019
+969,i10,Petrol,659805,Hatchback,2020
+970,Verna,Diesel,1089604,Sedan,2021
+971,Venue,Petrol,1037947,SUV,2016
+972,Verna,Diesel,1008050,Sedan,2021
+973,Ioniq 5,Electric,3772485,Electric,2015
+974,Ioniq,Electric,3891201,Electric,2018
+975,Alcazar,Diesel,1402973,SUV,2018
+976,Ioniq,Electric,2764014,Electric,2022
+977,Tucson,Diesel,2243281,SUV,2018
+978,Elantra,Diesel,912320,Sedan,2018
+979,i10,Diesel,641245,Hatchback,2016
+980,Ioniq,Electric,2758494,Electric,2020
+981,Alcazar,Petrol,2216155,SUV,2016
+982,Kona Electric,Electric,3792118,Electric,2016
+983,Aura,Diesel,1406048,Sedan,2019
+984,Kona Electric,Electric,3393870,Electric,2017
+985,Ioniq,Electric,3364789,Electric,2022
+986,Santro,Diesel,631762,Hatchback,2016
+987,Kona,Diesel,2370310,SUV,2022
+988,i20,Petrol,768678,Hatchback,2015
+989,Kona,Diesel,1336126,SUV,2021
+990,Grand i10 Nios,Petrol,768142,Hatchback,2017
+991,Santro,Diesel,546641,Hatchback,2016
+992,Kona,Petrol,1596438,SUV,2019
+993,Aura,Petrol,932639,Sedan,2017
+994,Aura,Petrol,1147302,Sedan,2015
+995,i20,Petrol,744916,Hatchback,2018
+996,Alcazar,Petrol,2189212,SUV,2018
+997,Venue,Diesel,2428270,SUV,2016
+998,i20,Diesel,817366,Hatchback,2022
+999,Kona Electric,Electric,3946361,Electric,2017
+1000,Grand i10 Nios,Petrol,651960,Hatchback,2021
+1001,Aura,Diesel,1084035,Sedan,2019
+1002,Aura,Petrol,905815,Sedan,2019
+1003,i10,Diesel,800705,Hatchback,2015
+1004,Ioniq 5,Electric,4820956,Electric,2018
+1005,Ioniq 5,Electric,2602781,Electric,2019
+1006,i10,Petrol,633718,Hatchback,2022
+1007,Kona,Petrol,1092773,SUV,2022
+1008,i10,Diesel,880012,Hatchback,2017
+1009,i20,Petrol,658081,Hatchback,2020
+1010,Tucson,Diesel,1319494,SUV,2021
+1011,Verna,Diesel,1091778,Sedan,2022
+1012,Verna,Petrol,1006467,Sedan,2021
+1013,Grand i10 Nios,Diesel,670416,Hatchback,2020
+1014,Ioniq 5,Electric,4369257,Electric,2020
+1015,Alcazar,Diesel,1707659,SUV,2015
+1016,i20,Diesel,747473,Hatchback,2020
+1017,i20,Diesel,661857,Hatchback,2019
+1018,Alcazar,Diesel,2112002,SUV,2018
+1019,i20,Petrol,575236,Hatchback,2015
+1020,Kona Electric,Electric,2370427,Electric,2020
+1021,Kona,Diesel,2106066,SUV,2019
+1022,Tucson,Diesel,2372827,SUV,2020
+1023,Aura,Petrol,1412199,Sedan,2021
+1024,Verna,Diesel,1050840,Sedan,2019
+1025,Venue,Diesel,1254790,SUV,2018
+1026,i10,Petrol,790516,Hatchback,2016
+1027,Grand i10 Nios,Diesel,760579,Hatchback,2017
+1028,Creta,Petrol,1520577,SUV,2015
+1029,Aura,Diesel,1168158,Sedan,2021
+1030,Grand i10 Nios,Diesel,539328,Hatchback,2018
+1031,Venue,Petrol,2381072,SUV,2018
+1032,Ioniq 5,Electric,4081411,Electric,2015
+1033,Tucson,Petrol,2167332,SUV,2022
+1034,Tucson,Petrol,2149937,SUV,2021
+1035,Aura,Petrol,1441589,Sedan,2018
+1036,Kona,Diesel,1664237,SUV,2015
+1037,Aura,Diesel,1284104,Sedan,2020
+1038,Kona,Petrol,1437955,SUV,2021
+1039,Santro,Petrol,677625,Hatchback,2022
+1040,Elantra,Petrol,1460144,Sedan,2019
+1041,Verna,Diesel,1096609,Sedan,2019
+1042,Tucson,Diesel,1222034,SUV,2018
+1043,Grand i10 Nios,Petrol,536709,Hatchback,2015
+1044,Ioniq 5,Electric,2972426,Electric,2020
+1045,Venue,Petrol,2231184,SUV,2017
+1046,Creta,Petrol,1065993,SUV,2018
+1047,Tucson,Diesel,2193294,SUV,2016
+1048,Tucson,Petrol,1200193,SUV,2017
+1049,Ioniq 5,Electric,2965309,Electric,2021
+1050,Creta,Petrol,1145125,SUV,2022
+1051,Ioniq,Electric,3507533,Electric,2015
+1052,Ioniq 5,Electric,4735977,Electric,2021
+1053,Kona Electric,Electric,3976916,Electric,2018
+1054,i10,Petrol,506531,Hatchback,2022
+1055,Kona,Petrol,1878742,SUV,2016
+1056,Tucson,Diesel,1384505,SUV,2020
+1057,Aura,Petrol,1003724,Sedan,2017
+1058,Kona Electric,Electric,2432960,Electric,2022
+1059,Grand i10 Nios,Diesel,771505,Hatchback,2015
+1060,Creta,Diesel,2216409,SUV,2016
+1061,i20,Diesel,748133,Hatchback,2019
+1062,Elantra,Petrol,1175072,Sedan,2021
+1063,Ioniq 5,Electric,4607517,Electric,2016
+1064,Alcazar,Petrol,2169446,SUV,2022
+1065,Elantra,Petrol,954015,Sedan,2015
+1066,Santro,Diesel,887963,Hatchback,2020
+1067,Elantra,Petrol,1346395,Sedan,2020
+1068,Venue,Petrol,1752576,SUV,2020
+1069,Grand i10 Nios,Diesel,867923,Hatchback,2022
+1070,i20,Petrol,793540,Hatchback,2017
+1071,Alcazar,Petrol,2496499,SUV,2019
+1072,Ioniq 5,Electric,3465126,Electric,2016
+1073,Creta,Diesel,1470353,SUV,2020
+1074,Elantra,Petrol,1269914,Sedan,2017
+1075,i10,Petrol,545436,Hatchback,2017
+1076,Tucson,Petrol,1354688,SUV,2019
+1077,Verna,Diesel,1368477,Sedan,2021
+1078,Verna,Petrol,999920,Sedan,2021
+1079,Venue,Diesel,1891901,SUV,2020
+1080,Creta,Petrol,1929370,SUV,2021
+1081,Verna,Diesel,1382898,Sedan,2016
+1082,Kona,Petrol,2068098,SUV,2017
+1083,Aura,Petrol,1417301,Sedan,2022
+1084,Aura,Diesel,921466,Sedan,2017
+1085,Elantra,Diesel,1043353,Sedan,2016
+1086,Alcazar,Diesel,1098360,SUV,2016
+1087,Alcazar,Diesel,1405108,SUV,2017
+1088,i10,Diesel,552598,Hatchback,2020
+1089,Elantra,Petrol,1300194,Sedan,2016
+1090,Aura,Diesel,1479135,Sedan,2022
+1091,Aura,Petrol,953906,Sedan,2016
+1092,Ioniq,Electric,3102857,Electric,2015
+1093,Kona Electric,Electric,4020364,Electric,2017
+1094,Grand i10 Nios,Petrol,636051,Hatchback,2022
+1095,Kona Electric,Electric,3386549,Electric,2020
+1096,Santro,Diesel,832595,Hatchback,2019
+1097,Venue,Petrol,2010938,SUV,2020
+1098,Ioniq,Electric,2872162,Electric,2020
+1099,Creta,Petrol,1827501,SUV,2018
+1100,Elantra,Petrol,1459276,Sedan,2016
+1101,Tucson,Petrol,2002756,SUV,2021
+1102,Elantra,Petrol,942534,Sedan,2019
+1103,Alcazar,Diesel,1567970,SUV,2016
+1104,Verna,Diesel,1004517,Sedan,2015
+1105,i10,Petrol,805986,Hatchback,2017
+1106,Elantra,Petrol,957371,Sedan,2021
+1107,Ioniq,Electric,2136504,Electric,2017
+1108,Grand i10 Nios,Petrol,825284,Hatchback,2017
+1109,Verna,Diesel,1055391,Sedan,2019
+1110,Tucson,Petrol,1308353,SUV,2020
+1111,Aura,Diesel,1231170,Sedan,2022
+1112,i20,Petrol,558183,Hatchback,2017
+1113,Kona,Petrol,1237017,SUV,2016
+1114,Venue,Diesel,2291932,SUV,2016
+1115,i20,Diesel,881481,Hatchback,2018
+1116,Creta,Petrol,1425232,SUV,2020
+1117,Verna,Petrol,913185,Sedan,2015
+1118,Ioniq 5,Electric,2895693,Electric,2018
+1119,Verna,Petrol,982457,Sedan,2019
+1120,Aura,Diesel,1229051,Sedan,2018
+1121,i10,Diesel,794242,Hatchback,2021
+1122,Aura,Diesel,1146403,Sedan,2020
+1123,Kona Electric,Electric,3683610,Electric,2021
+1124,i20,Petrol,528332,Hatchback,2015
+1125,i10,Diesel,620620,Hatchback,2020
+1126,i10,Petrol,502652,Hatchback,2016
+1127,Aura,Petrol,1368259,Sedan,2019
+1128,Ioniq,Electric,2800209,Electric,2016
+1129,Kona,Petrol,1581398,SUV,2020
+1130,Verna,Petrol,1068801,Sedan,2018
+1131,Creta,Diesel,1268091,SUV,2020
+1132,Tucson,Diesel,2093118,SUV,2016
+1133,i10,Diesel,869775,Hatchback,2021
+1134,Grand i10 Nios,Diesel,636958,Hatchback,2019
+1135,Aura,Diesel,1105871,Sedan,2015
+1136,Ioniq 5,Electric,2393292,Electric,2022
+1137,Ioniq 5,Electric,3151130,Electric,2021
+1138,Venue,Petrol,2480519,SUV,2016
+1139,Santro,Diesel,761251,Hatchback,2018
+1140,Ioniq 5,Electric,3911870,Electric,2021
+1141,Verna,Diesel,1399196,Sedan,2022
+1142,Verna,Petrol,1253741,Sedan,2021
+1143,Santro,Petrol,537227,Hatchback,2018
+1144,Creta,Diesel,2311494,SUV,2021
+1145,Ioniq,Electric,3274629,Electric,2017
+1146,Aura,Petrol,1331573,Sedan,2015
+1147,Santro,Petrol,521180,Hatchback,2017
+1148,Tucson,Diesel,1918266,SUV,2020
+1149,Kona Electric,Electric,2919322,Electric,2022
+1150,i10,Petrol,897880,Hatchback,2015
+1151,i20,Petrol,638438,Hatchback,2022
+1152,Ioniq 5,Electric,4970949,Electric,2018
+1153,Alcazar,Petrol,1692520,SUV,2015
+1154,Tucson,Diesel,1606990,SUV,2021
+1155,Venue,Diesel,2319510,SUV,2019
+1156,Venue,Petrol,1866428,SUV,2015
+1157,Ioniq 5,Electric,2394692,Electric,2016
+1158,i10,Petrol,527874,Hatchback,2018
+1159,Santro,Petrol,576011,Hatchback,2017
+1160,Ioniq,Electric,2343969,Electric,2017
+1161,Verna,Diesel,1292037,Sedan,2015
+1162,Verna,Diesel,1041805,Sedan,2020
+1163,Ioniq,Electric,4870619,Electric,2015
+1164,Santro,Petrol,845784,Hatchback,2015
+1165,Aura,Diesel,1143909,Sedan,2016
+1166,Venue,Diesel,1413121,SUV,2021
+1167,Grand i10 Nios,Petrol,758172,Hatchback,2018
+1168,Kona Electric,Electric,4627956,Electric,2017
+1169,Verna,Petrol,1373380,Sedan,2021
+1170,Verna,Petrol,1280761,Sedan,2022
+1171,Grand i10 Nios,Petrol,835158,Hatchback,2022
+1172,i20,Petrol,878080,Hatchback,2016
+1173,Kona Electric,Electric,2165009,Electric,2019
+1174,Kona,Diesel,2460061,SUV,2019
+1175,Creta,Diesel,1735050,SUV,2021
+1176,Venue,Diesel,1426389,SUV,2015
+1177,Kona,Petrol,1141130,SUV,2019
+1178,Kona Electric,Electric,4825177,Electric,2022
+1179,i10,Diesel,530980,Hatchback,2022
+1180,i10,Petrol,889004,Hatchback,2019
+1181,Elantra,Diesel,1440111,Sedan,2015
+1182,Verna,Diesel,1189488,Sedan,2022
+1183,Tucson,Diesel,1725869,SUV,2016
+1184,Kona Electric,Electric,4077187,Electric,2016
+1185,Alcazar,Diesel,1351393,SUV,2020
+1186,Elantra,Diesel,1020606,Sedan,2015
+1187,Tucson,Petrol,2091323,SUV,2021
+1188,Alcazar,Diesel,1920834,SUV,2021
+1189,Kona,Petrol,1518430,SUV,2017
+1190,Verna,Petrol,1089476,Sedan,2015
+1191,Tucson,Diesel,1011242,SUV,2021
+1192,Elantra,Petrol,1345688,Sedan,2018
+1193,Creta,Petrol,1625027,SUV,2020
+1194,Ioniq 5,Electric,4937961,Electric,2016
+1195,Elantra,Diesel,954249,Sedan,2020
+1196,Verna,Diesel,1163265,Sedan,2018
+1197,Grand i10 Nios,Petrol,593405,Hatchback,2021
+1198,Ioniq,Electric,2168957,Electric,2016
+1199,Alcazar,Petrol,1994789,SUV,2015
+1200,Ioniq 5,Electric,3599256,Electric,2018
+1201,Santro,Diesel,749704,Hatchback,2021
+1202,Creta,Diesel,2089243,SUV,2021
+1203,Aura,Petrol,1387665,Sedan,2018
+1204,Alcazar,Diesel,1421167,SUV,2015
+1205,Santro,Petrol,851213,Hatchback,2015
+1206,Santro,Petrol,600257,Hatchback,2018
+1207,Tucson,Petrol,2201182,SUV,2016
+1208,Tucson,Diesel,1338264,SUV,2020
+1209,Kona Electric,Electric,2467503,Electric,2017
+1210,Elantra,Petrol,1468147,Sedan,2021
+1211,Creta,Petrol,2444796,SUV,2022
+1212,Ioniq,Electric,2242986,Electric,2017
+1213,Grand i10 Nios,Diesel,822882,Hatchback,2020
+1214,Creta,Petrol,1774334,SUV,2017
+1215,Venue,Petrol,1430313,SUV,2016
+1216,i20,Diesel,881596,Hatchback,2022
+1217,Alcazar,Diesel,1146599,SUV,2015
+1218,Aura,Petrol,1228722,Sedan,2015
+1219,Ioniq 5,Electric,4984439,Electric,2021
+1220,Elantra,Petrol,959069,Sedan,2021
+1221,Grand i10 Nios,Diesel,766429,Hatchback,2015
+1222,Ioniq 5,Electric,4254481,Electric,2021
+1223,Kona Electric,Electric,3164410,Electric,2016
+1224,Elantra,Petrol,981716,Sedan,2021
+1225,i10,Petrol,878081,Hatchback,2018
+1226,Creta,Petrol,1097125,SUV,2019
+1227,Aura,Petrol,1243058,Sedan,2019
+1228,Aura,Petrol,1267081,Sedan,2015
+1229,Grand i10 Nios,Petrol,806851,Hatchback,2018
+1230,Venue,Petrol,1642680,SUV,2017
+1231,Elantra,Diesel,1159922,Sedan,2020
+1232,Aura,Diesel,1053197,Sedan,2015
+1233,Kona,Diesel,1790292,SUV,2018
+1234,Venue,Petrol,2487472,SUV,2016
+1235,Grand i10 Nios,Diesel,694839,Hatchback,2021
+1236,Kona,Petrol,1237949,SUV,2016
+1237,Ioniq 5,Electric,3996730,Electric,2017
+1238,Santro,Diesel,844447,Hatchback,2019
+1239,Kona Electric,Electric,2725659,Electric,2018
+1240,i10,Petrol,711513,Hatchback,2021
+1241,Aura,Petrol,1082456,Sedan,2018
+1242,Grand i10 Nios,Diesel,523040,Hatchback,2017
+1243,Creta,Petrol,2301188,SUV,2017
+1244,Ioniq 5,Electric,3512579,Electric,2019
+1245,Tucson,Diesel,1054184,SUV,2021
+1246,Venue,Petrol,1180164,SUV,2018
+1247,Grand i10 Nios,Diesel,796132,Hatchback,2022
+1248,Venue,Petrol,1274126,SUV,2022
+1249,Ioniq,Electric,4332729,Electric,2016
+1250,Venue,Diesel,1225145,SUV,2017
+1251,Kona Electric,Electric,3072394,Electric,2018
+1252,Venue,Diesel,1179964,SUV,2016
+1253,Kona,Diesel,2090706,SUV,2020
+1254,Kona Electric,Electric,2723872,Electric,2019
+1255,Creta,Petrol,1422284,SUV,2015
+1256,Tucson,Petrol,1673788,SUV,2018
+1257,Elantra,Diesel,998667,Sedan,2022
+1258,Santro,Diesel,778668,Hatchback,2022
+1259,Venue,Petrol,1661826,SUV,2019
+1260,Ioniq 5,Electric,3912642,Electric,2020
+1261,Grand i10 Nios,Petrol,780365,Hatchback,2017
+1262,Ioniq 5,Electric,4407406,Electric,2017
+1263,i10,Diesel,551833,Hatchback,2018
+1264,Aura,Petrol,1087943,Sedan,2020
+1265,Verna,Diesel,1136739,Sedan,2016
+1266,Creta,Diesel,1886858,SUV,2017
+1267,Santro,Diesel,712939,Hatchback,2019
+1268,Venue,Diesel,1288078,SUV,2022
+1269,Alcazar,Petrol,1992880,SUV,2022
+1270,Elantra,Petrol,1186871,Sedan,2022
+1271,Creta,Petrol,1500874,SUV,2019
+1272,Creta,Petrol,1266716,SUV,2020
+1273,Ioniq,Electric,3815520,Electric,2020
+1274,Verna,Petrol,1488692,Sedan,2022
+1275,i20,Petrol,749938,Hatchback,2018
+1276,i20,Diesel,859127,Hatchback,2019
+1277,Aura,Diesel,926245,Sedan,2019
+1278,Creta,Diesel,2197176,SUV,2016
+1279,Elantra,Diesel,1263291,Sedan,2016
+1280,Kona Electric,Electric,2299911,Electric,2019
+1281,Elantra,Diesel,1217604,Sedan,2020
+1282,Elantra,Diesel,1199587,Sedan,2020
+1283,Alcazar,Petrol,2375962,SUV,2018
+1284,Alcazar,Petrol,1618277,SUV,2018
+1285,i20,Petrol,634830,Hatchback,2021
+1286,i20,Petrol,769683,Hatchback,2016
+1287,i10,Petrol,715000,Hatchback,2015
+1288,i10,Petrol,688219,Hatchback,2016
+1289,Verna,Petrol,1381149,Sedan,2020
+1290,Ioniq 5,Electric,2803403,Electric,2017
+1291,Tucson,Petrol,2205204,SUV,2021
+1292,Aura,Petrol,1024860,Sedan,2017
+1293,i10,Diesel,723434,Hatchback,2015
+1294,Ioniq 5,Electric,3104364,Electric,2017
+1295,Venue,Diesel,1318023,SUV,2015
+1296,Venue,Diesel,2279127,SUV,2017
+1297,Santro,Petrol,849914,Hatchback,2022
+1298,Grand i10 Nios,Diesel,753828,Hatchback,2020
+1299,Ioniq 5,Electric,3779391,Electric,2018
+1300,i20,Petrol,603556,Hatchback,2019
+1301,Alcazar,Diesel,1263076,SUV,2017
+1302,i10,Diesel,644376,Hatchback,2021
+1303,i10,Petrol,554803,Hatchback,2022
+1304,Creta,Petrol,1170950,SUV,2016
+1305,Creta,Diesel,1091172,SUV,2015
+1306,Kona,Petrol,1436959,SUV,2017
+1307,Creta,Diesel,1348781,SUV,2017
+1308,Kona,Petrol,2086648,SUV,2019
+1309,i20,Diesel,789400,Hatchback,2019
+1310,Ioniq 5,Electric,4362249,Electric,2020
+1311,Elantra,Petrol,1127142,Sedan,2020
+1312,i10,Diesel,752824,Hatchback,2017
+1313,Venue,Diesel,2065201,SUV,2019
+1314,Alcazar,Diesel,1820525,SUV,2018
+1315,Kona Electric,Electric,4371883,Electric,2021
+1316,Tucson,Petrol,1292890,SUV,2017
+1317,Aura,Petrol,1477559,Sedan,2015
+1318,Tucson,Diesel,1659134,SUV,2019
+1319,Ioniq 5,Electric,2450654,Electric,2021
+1320,Verna,Diesel,1323153,Sedan,2019
+1321,i20,Petrol,838120,Hatchback,2019
+1322,Grand i10 Nios,Petrol,783020,Hatchback,2015
+1323,Kona Electric,Electric,3732466,Electric,2022
+1324,i20,Petrol,521008,Hatchback,2022
+1325,Ioniq,Electric,3513490,Electric,2020
+1326,Ioniq 5,Electric,2726226,Electric,2021
+1327,Kona Electric,Electric,4455057,Electric,2017
+1328,Tucson,Petrol,1596017,SUV,2018
+1329,Verna,Petrol,1144380,Sedan,2022
+1330,Grand i10 Nios,Petrol,779537,Hatchback,2022
+1331,i10,Petrol,562583,Hatchback,2018
+1332,Santro,Petrol,891076,Hatchback,2019
+1333,i20,Petrol,754104,Hatchback,2015
+1334,Elantra,Diesel,930815,Sedan,2015
+1335,Kona,Petrol,1812142,SUV,2018
+1336,Santro,Petrol,739741,Hatchback,2021
+1337,Kona Electric,Electric,4122964,Electric,2020
+1338,Venue,Petrol,1689922,SUV,2022
+1339,Venue,Petrol,1858069,SUV,2021
+1340,Ioniq,Electric,4077198,Electric,2021
+1341,Creta,Petrol,1739534,SUV,2022
+1342,Creta,Diesel,1504126,SUV,2019
+1343,i20,Diesel,770058,Hatchback,2020
+1344,Ioniq,Electric,4671808,Electric,2017
+1345,Ioniq 5,Electric,3160349,Electric,2019
+1346,Alcazar,Diesel,1154231,SUV,2017
+1347,Venue,Diesel,1919810,SUV,2018
+1348,Aura,Diesel,1122175,Sedan,2016
+1349,Creta,Diesel,2039636,SUV,2017
+1350,Grand i10 Nios,Petrol,672924,Hatchback,2017
+1351,Kona,Petrol,1765332,SUV,2020
+1352,Santro,Petrol,579157,Hatchback,2015
+1353,Kona,Diesel,2103475,SUV,2018
+1354,Elantra,Petrol,1201654,Sedan,2022
+1355,Creta,Petrol,2387643,SUV,2022
+1356,i20,Diesel,768065,Hatchback,2016
+1357,Alcazar,Petrol,1891655,SUV,2016
+1358,Elantra,Petrol,922886,Sedan,2021
+1359,Venue,Diesel,1826237,SUV,2016
+1360,Ioniq 5,Electric,4987983,Electric,2018
+1361,Santro,Petrol,730078,Hatchback,2015
+1362,Ioniq,Electric,2092935,Electric,2019
+1363,Creta,Diesel,2274672,SUV,2017
+1364,Santro,Petrol,866449,Hatchback,2018
+1365,Verna,Diesel,1444973,Sedan,2017
+1366,Alcazar,Diesel,2413154,SUV,2018
+1367,Alcazar,Petrol,2064862,SUV,2020
+1368,Alcazar,Diesel,2208968,SUV,2015
+1369,Ioniq,Electric,4356418,Electric,2018
+1370,Ioniq 5,Electric,2148004,Electric,2022
+1371,Aura,Diesel,1110681,Sedan,2016
+1372,Alcazar,Diesel,2305808,SUV,2022
+1373,Ioniq,Electric,2778329,Electric,2019
+1374,Grand i10 Nios,Diesel,627012,Hatchback,2016
+1375,Elantra,Petrol,1232528,Sedan,2015
+1376,Venue,Diesel,1723597,SUV,2018
+1377,Ioniq,Electric,2587578,Electric,2022
+1378,Elantra,Petrol,1079955,Sedan,2018
+1379,Tucson,Diesel,2025750,SUV,2019
+1380,Ioniq,Electric,4029152,Electric,2017
+1381,Venue,Petrol,1217689,SUV,2022
+1382,Venue,Petrol,1619751,SUV,2019
+1383,Tucson,Diesel,1765029,SUV,2020
+1384,Grand i10 Nios,Diesel,507852,Hatchback,2022
+1385,Ioniq,Electric,4555780,Electric,2016
+1386,Kona,Petrol,1363381,SUV,2016
+1387,Alcazar,Diesel,1236618,SUV,2015
+1388,Alcazar,Diesel,1430343,SUV,2022
+1389,Tucson,Petrol,2298100,SUV,2018
+1390,i20,Petrol,653728,Hatchback,2021
+1391,Alcazar,Diesel,1282694,SUV,2019
+1392,Elantra,Petrol,1228524,Sedan,2018
+1393,Aura,Diesel,934463,Sedan,2020
+1394,Venue,Petrol,1906983,SUV,2022
+1395,Verna,Petrol,1135760,Sedan,2015
+1396,Verna,Petrol,1440964,Sedan,2022
+1397,i20,Petrol,515816,Hatchback,2017
+1398,Verna,Diesel,980754,Sedan,2018
+1399,Creta,Petrol,1085334,SUV,2015
+1400,i10,Diesel,743672,Hatchback,2022
+1401,Aura,Petrol,947030,Sedan,2015
+1402,Creta,Diesel,1461232,SUV,2016
+1403,i20,Petrol,624844,Hatchback,2022
+1404,Ioniq 5,Electric,4552432,Electric,2020
+1405,Elantra,Diesel,1378085,Sedan,2022
+1406,Alcazar,Diesel,2396889,SUV,2020
+1407,i20,Diesel,667803,Hatchback,2016
+1408,Kona,Diesel,1266839,SUV,2016
+1409,Creta,Diesel,1060439,SUV,2020
+1410,Kona,Diesel,2333077,SUV,2018
+1411,Kona,Diesel,1822960,SUV,2016
+1412,Aura,Petrol,1284196,Sedan,2022
+1413,Aura,Diesel,1037999,Sedan,2015
+1414,Ioniq,Electric,2220336,Electric,2018
+1415,Grand i10 Nios,Diesel,535121,Hatchback,2015
+1416,Santro,Diesel,565488,Hatchback,2021
+1417,Aura,Diesel,1494465,Sedan,2016
+1418,Ioniq,Electric,3867650,Electric,2019
+1419,Verna,Petrol,1237938,Sedan,2017
+1420,i20,Petrol,764934,Hatchback,2021
+1421,Kona Electric,Electric,4574019,Electric,2015
+1422,i20,Diesel,792340,Hatchback,2018
+1423,Elantra,Diesel,1433348,Sedan,2015
+1424,Aura,Petrol,1013956,Sedan,2017
+1425,Creta,Diesel,1294416,SUV,2016
+1426,Ioniq,Electric,3605345,Electric,2015
+1427,Alcazar,Petrol,1626488,SUV,2018
+1428,i10,Diesel,862228,Hatchback,2019
+1429,Verna,Diesel,989336,Sedan,2017
+1430,Kona Electric,Electric,4350920,Electric,2020
+1431,Grand i10 Nios,Petrol,812944,Hatchback,2018
+1432,Grand i10 Nios,Diesel,530061,Hatchback,2022
+1433,Tucson,Diesel,1735071,SUV,2017
+1434,Verna,Diesel,1482311,Sedan,2016
+1435,Kona,Petrol,1172444,SUV,2019
+1436,Santro,Diesel,667103,Hatchback,2015
+1437,Ioniq,Electric,2329993,Electric,2015
+1438,Santro,Petrol,609659,Hatchback,2017
+1439,i20,Diesel,664125,Hatchback,2021
+1440,Ioniq,Electric,2123436,Electric,2019
+1441,Grand i10 Nios,Diesel,519493,Hatchback,2018
+1442,Grand i10 Nios,Petrol,733414,Hatchback,2016
+1443,Verna,Petrol,935070,Sedan,2019
+1444,Kona Electric,Electric,2899532,Electric,2020
+1445,Ioniq,Electric,2933596,Electric,2020
+1446,Venue,Petrol,1580225,SUV,2022
+1447,Elantra,Petrol,945948,Sedan,2015
+1448,Alcazar,Diesel,1570313,SUV,2020
+1449,i20,Diesel,890862,Hatchback,2016
+1450,Verna,Petrol,1394299,Sedan,2015
+1451,Elantra,Diesel,912062,Sedan,2015
+1452,Ioniq,Electric,3874172,Electric,2018
+1453,Tucson,Petrol,2026993,SUV,2015
+1454,Kona Electric,Electric,2124295,Electric,2019
+1455,Kona Electric,Electric,4810026,Electric,2021
+1456,Verna,Petrol,1470394,Sedan,2015
+1457,Ioniq 5,Electric,2634952,Electric,2022
+1458,i10,Petrol,794539,Hatchback,2015
+1459,Santro,Diesel,524837,Hatchback,2016
+1460,Ioniq,Electric,2870505,Electric,2019
+1461,Alcazar,Diesel,1684939,SUV,2019
+1462,Grand i10 Nios,Diesel,827740,Hatchback,2016
+1463,Santro,Petrol,632297,Hatchback,2022
+1464,Alcazar,Petrol,2128936,SUV,2019
+1465,Ioniq 5,Electric,2649398,Electric,2017
+1466,Kona,Petrol,1456638,SUV,2022
+1467,Ioniq 5,Electric,2837861,Electric,2019
+1468,Elantra,Diesel,1157860,Sedan,2020
+1469,Kona,Petrol,1564956,SUV,2017
+1470,Ioniq 5,Electric,4726247,Electric,2021
+1471,Venue,Petrol,1455739,SUV,2021
+1472,Elantra,Petrol,1382817,Sedan,2019
+1473,Ioniq 5,Electric,4015597,Electric,2020
+1474,Ioniq,Electric,3360859,Electric,2019
+1475,Creta,Petrol,1921406,SUV,2019
+1476,Ioniq,Electric,3694538,Electric,2022
+1477,Aura,Diesel,980398,Sedan,2020
+1478,Aura,Diesel,1272416,Sedan,2022
+1479,Ioniq,Electric,2937221,Electric,2019
+1480,Verna,Diesel,1038698,Sedan,2021
+1481,Ioniq 5,Electric,3262363,Electric,2019
+1482,Elantra,Petrol,1484940,Sedan,2015
+1483,Ioniq,Electric,4488248,Electric,2021
+1484,Grand i10 Nios,Diesel,610134,Hatchback,2019
+1485,i20,Petrol,500790,Hatchback,2020
+1486,Elantra,Diesel,1201338,Sedan,2016
+1487,Kona Electric,Electric,4515256,Electric,2020
+1488,Grand i10 Nios,Petrol,581708,Hatchback,2020
+1489,Tucson,Diesel,1337079,SUV,2016
+1490,Ioniq,Electric,4921918,Electric,2019
+1491,Ioniq 5,Electric,4708449,Electric,2015
+1492,Kona,Diesel,1597797,SUV,2018
+1493,Kona Electric,Electric,3257905,Electric,2022
+1494,Alcazar,Diesel,1060325,SUV,2018
+1495,i10,Diesel,611508,Hatchback,2016
+1496,i10,Diesel,515370,Hatchback,2018
+1497,Ioniq,Electric,3000228,Electric,2018
+1498,Grand i10 Nios,Petrol,600979,Hatchback,2021
+1499,Kona,Diesel,2436840,SUV,2020
+1500,Venue,Diesel,2341116,SUV,2021
+1501,Venue,Diesel,1499421,SUV,2017
+1502,Santro,Diesel,803934,Hatchback,2019
+1503,Kona Electric,Electric,4139345,Electric,2020
+1504,Verna,Diesel,1083012,Sedan,2016
+1505,Kona Electric,Electric,3669002,Electric,2015
+1506,Kona,Petrol,1511471,SUV,2017
+1507,Alcazar,Diesel,2347806,SUV,2015
+1508,Kona,Petrol,2146757,SUV,2022
+1509,Creta,Petrol,1685652,SUV,2021
+1510,Kona,Diesel,1386377,SUV,2019
+1511,Creta,Petrol,1308578,SUV,2021
+1512,Santro,Diesel,631668,Hatchback,2022
+1513,Kona,Petrol,2348490,SUV,2020
+1514,Verna,Diesel,1236346,Sedan,2015
+1515,Venue,Petrol,1627357,SUV,2016
+1516,Tucson,Diesel,1774851,SUV,2020
+1517,Grand i10 Nios,Diesel,643267,Hatchback,2016
+1518,Grand i10 Nios,Petrol,836165,Hatchback,2019
+1519,Tucson,Petrol,1696390,SUV,2020
+1520,Creta,Petrol,1559889,SUV,2019
+1521,Verna,Diesel,1415291,Sedan,2022
+1522,Ioniq 5,Electric,3930358,Electric,2018
+1523,Creta,Petrol,1657008,SUV,2022
+1524,Santro,Diesel,566656,Hatchback,2017
+1525,Tucson,Petrol,1735016,SUV,2021
+1526,Kona,Diesel,1000205,SUV,2020
+1527,Grand i10 Nios,Petrol,507188,Hatchback,2022
+1528,i20,Petrol,566395,Hatchback,2022
+1529,Venue,Petrol,1798656,SUV,2019
+1530,Grand i10 Nios,Petrol,680028,Hatchback,2019
+1531,Kona Electric,Electric,3325538,Electric,2016
+1532,i20,Diesel,512127,Hatchback,2022
+1533,Alcazar,Diesel,1609021,SUV,2019
+1534,Santro,Diesel,802164,Hatchback,2016
+1535,Venue,Petrol,2206739,SUV,2022
+1536,Tucson,Diesel,1627836,SUV,2020
+1537,Creta,Diesel,1735318,SUV,2015
+1538,Tucson,Petrol,1398986,SUV,2021
+1539,Ioniq,Electric,3713648,Electric,2022
+1540,i20,Petrol,649339,Hatchback,2017
+1541,Ioniq 5,Electric,2822175,Electric,2018
+1542,Elantra,Diesel,944803,Sedan,2022
+1543,i10,Diesel,587379,Hatchback,2015
+1544,Venue,Diesel,1888474,SUV,2015
+1545,Tucson,Diesel,2088498,SUV,2017
+1546,Alcazar,Diesel,2038344,SUV,2018
+1547,Verna,Petrol,1274333,Sedan,2016
+1548,Alcazar,Diesel,1364559,SUV,2015
+1549,Grand i10 Nios,Diesel,676728,Hatchback,2020
+1550,Ioniq,Electric,3722837,Electric,2022
+1551,Kona Electric,Electric,4484413,Electric,2015
+1552,Elantra,Diesel,1165298,Sedan,2022
+1553,Verna,Petrol,1304399,Sedan,2019
+1554,Elantra,Diesel,1374955,Sedan,2016
+1555,Elantra,Diesel,1117934,Sedan,2016
+1556,Tucson,Petrol,1425524,SUV,2017
+1557,Ioniq 5,Electric,2667473,Electric,2016
+1558,Creta,Diesel,1956367,SUV,2017
+1559,Santro,Petrol,533247,Hatchback,2018
+1560,Santro,Diesel,577051,Hatchback,2015
+1561,i10,Petrol,661107,Hatchback,2020
+1562,Kona Electric,Electric,2918542,Electric,2018
+1563,Kona,Diesel,1162595,SUV,2020
+1564,Ioniq,Electric,2471971,Electric,2022
+1565,Ioniq 5,Electric,4497519,Electric,2020
+1566,Ioniq,Electric,2513139,Electric,2020
+1567,Venue,Diesel,1946410,SUV,2020
+1568,Kona,Diesel,2002226,SUV,2018
+1569,Ioniq 5,Electric,4699321,Electric,2020
+1570,Ioniq 5,Electric,2444310,Electric,2016
+1571,i20,Diesel,810567,Hatchback,2016
+1572,Venue,Petrol,1434436,SUV,2017
+1573,i10,Petrol,716183,Hatchback,2021
+1574,Verna,Petrol,1181483,Sedan,2022
+1575,Grand i10 Nios,Diesel,700391,Hatchback,2015
+1576,Elantra,Petrol,1247048,Sedan,2018
+1577,Ioniq,Electric,3638836,Electric,2018
+1578,Alcazar,Petrol,1348470,SUV,2018
+1579,Aura,Petrol,1330924,Sedan,2016
+1580,Kona Electric,Electric,3015921,Electric,2021
+1581,Santro,Petrol,692436,Hatchback,2022
+1582,Venue,Diesel,2483224,SUV,2021
+1583,i10,Diesel,886143,Hatchback,2022
+1584,i10,Petrol,819252,Hatchback,2020
+1585,Kona,Petrol,1437125,SUV,2017
+1586,Venue,Petrol,1687086,SUV,2017
+1587,Aura,Diesel,907818,Sedan,2016
+1588,Alcazar,Petrol,1167813,SUV,2019
+1589,Elantra,Petrol,1046145,Sedan,2019
+1590,Kona,Petrol,2451006,SUV,2015
+1591,Kona,Petrol,2270936,SUV,2022
+1592,Kona Electric,Electric,3710383,Electric,2018
+1593,Aura,Petrol,976607,Sedan,2020
+1594,Ioniq 5,Electric,3485271,Electric,2016
+1595,Alcazar,Diesel,1974443,SUV,2022
+1596,Venue,Diesel,1972930,SUV,2020
+1597,Aura,Petrol,911475,Sedan,2019
+1598,Ioniq 5,Electric,3257859,Electric,2020
+1599,Ioniq,Electric,2071743,Electric,2022
+1600,Kona Electric,Electric,2405620,Electric,2015
+1601,Ioniq,Electric,2493786,Electric,2021
+1602,Venue,Diesel,1434125,SUV,2016
+1603,Grand i10 Nios,Petrol,773002,Hatchback,2018
+1604,i20,Petrol,598735,Hatchback,2018
+1605,i20,Petrol,748919,Hatchback,2020
+1606,i10,Petrol,703569,Hatchback,2020
+1607,Elantra,Diesel,998737,Sedan,2019
+1608,Elantra,Diesel,965911,Sedan,2021
+1609,Kona,Diesel,1527599,SUV,2021
+1610,i10,Petrol,827892,Hatchback,2018
+1611,Alcazar,Petrol,1780221,SUV,2022
+1612,Venue,Diesel,1908369,SUV,2022
+1613,Aura,Diesel,1462096,Sedan,2017
+1614,Grand i10 Nios,Petrol,779613,Hatchback,2018
+1615,Verna,Diesel,1404025,Sedan,2021
+1616,Creta,Diesel,2216693,SUV,2018
+1617,i10,Diesel,756181,Hatchback,2016
+1618,Ioniq 5,Electric,4113012,Electric,2022
+1619,Elantra,Petrol,1041097,Sedan,2016
+1620,Creta,Petrol,1926592,SUV,2020
+1621,Creta,Diesel,1172298,SUV,2022
+1622,Aura,Diesel,902324,Sedan,2018
+1623,Kona,Diesel,2343127,SUV,2022
+1624,Venue,Petrol,2153696,SUV,2019
+1625,Venue,Petrol,1115555,SUV,2020
+1626,i20,Diesel,619915,Hatchback,2019
+1627,Alcazar,Petrol,2127478,SUV,2022
+1628,Santro,Diesel,679017,Hatchback,2022
+1629,Santro,Petrol,761619,Hatchback,2017
+1630,Ioniq,Electric,2815778,Electric,2022
+1631,i10,Diesel,667850,Hatchback,2016
+1632,Kona Electric,Electric,4788267,Electric,2019
+1633,Santro,Petrol,642560,Hatchback,2017
+1634,Aura,Diesel,994880,Sedan,2018
+1635,Creta,Diesel,2333906,SUV,2017
+1636,Aura,Petrol,974537,Sedan,2022
+1637,Venue,Diesel,1188612,SUV,2015
+1638,i20,Petrol,873477,Hatchback,2019
+1639,Tucson,Diesel,2177144,SUV,2017
+1640,Grand i10 Nios,Diesel,741956,Hatchback,2019
+1641,i10,Petrol,734631,Hatchback,2017
+1642,Kona Electric,Electric,4142442,Electric,2017
+1643,i10,Diesel,742422,Hatchback,2019
+1644,Ioniq,Electric,2937166,Electric,2019
+1645,Aura,Petrol,1483251,Sedan,2018
+1646,Elantra,Petrol,1138973,Sedan,2018
+1647,Aura,Petrol,1088226,Sedan,2019
+1648,Tucson,Petrol,1468726,SUV,2015
+1649,Kona Electric,Electric,3372937,Electric,2022
+1650,Ioniq,Electric,2666819,Electric,2021
+1651,Verna,Petrol,1108768,Sedan,2018
+1652,Santro,Petrol,671775,Hatchback,2018
+1653,Ioniq,Electric,4150372,Electric,2021
+1654,Grand i10 Nios,Diesel,784151,Hatchback,2022
+1655,i20,Petrol,842434,Hatchback,2018
+1656,Verna,Diesel,1436491,Sedan,2015
+1657,i20,Petrol,737404,Hatchback,2022
+1658,Tucson,Diesel,1047781,SUV,2015
+1659,Tucson,Petrol,1755306,SUV,2016
+1660,Santro,Petrol,574586,Hatchback,2018
+1661,Ioniq 5,Electric,4325267,Electric,2019
+1662,Venue,Diesel,1871982,SUV,2021
+1663,i20,Diesel,788855,Hatchback,2016
+1664,Kona,Petrol,2244603,SUV,2017
+1665,Kona Electric,Electric,4895516,Electric,2018
+1666,Ioniq 5,Electric,2024216,Electric,2019
+1667,Ioniq,Electric,4569459,Electric,2021
+1668,Ioniq 5,Electric,2516305,Electric,2016
+1669,Ioniq,Electric,4948562,Electric,2022
+1670,Creta,Petrol,2066058,SUV,2017
+1671,Tucson,Diesel,2441143,SUV,2020
+1672,Kona,Diesel,1756142,SUV,2018
+1673,Elantra,Petrol,920532,Sedan,2020
+1674,Kona Electric,Electric,4759678,Electric,2015
+1675,Tucson,Petrol,2384599,SUV,2020
+1676,Grand i10 Nios,Diesel,545639,Hatchback,2019
+1677,Creta,Diesel,1723496,SUV,2017
+1678,Elantra,Petrol,1343225,Sedan,2016
+1679,Venue,Petrol,2022390,SUV,2018
+1680,Verna,Diesel,1142910,Sedan,2018
+1681,i10,Diesel,643140,Hatchback,2015
+1682,i10,Petrol,702016,Hatchback,2020
+1683,Aura,Diesel,1171513,Sedan,2019
+1684,Elantra,Diesel,1465011,Sedan,2019
+1685,Tucson,Diesel,2163596,SUV,2019
+1686,i10,Diesel,707225,Hatchback,2016
+1687,Ioniq 5,Electric,4797627,Electric,2015
+1688,Kona Electric,Electric,4205980,Electric,2015
+1689,Grand i10 Nios,Diesel,898184,Hatchback,2018
+1690,Grand i10 Nios,Diesel,822847,Hatchback,2021
+1691,Venue,Diesel,2467827,SUV,2022
+1692,Kona Electric,Electric,2211146,Electric,2015
+1693,i10,Petrol,680691,Hatchback,2019
+1694,Ioniq 5,Electric,3373806,Electric,2017
+1695,Venue,Diesel,1501375,SUV,2020
+1696,Aura,Diesel,918612,Sedan,2016
+1697,Santro,Diesel,699795,Hatchback,2022
+1698,Kona Electric,Electric,2177997,Electric,2022
+1699,Creta,Diesel,1886945,SUV,2015
+1700,Kona Electric,Electric,3240873,Electric,2016
+1701,Creta,Diesel,1093037,SUV,2016
+1702,Kona,Petrol,2418931,SUV,2015
+1703,Venue,Petrol,1648714,SUV,2016
+1704,Elantra,Petrol,961578,Sedan,2021
+1705,Kona,Petrol,1207830,SUV,2019
+1706,Alcazar,Petrol,1418708,SUV,2017
+1707,Alcazar,Diesel,1981197,SUV,2019
+1708,Tucson,Petrol,1371886,SUV,2015
+1709,Verna,Petrol,1336929,Sedan,2020
+1710,Kona Electric,Electric,4846558,Electric,2017
+1711,Kona,Diesel,1155246,SUV,2022
+1712,Venue,Petrol,2407982,SUV,2021
+1713,Tucson,Diesel,2429278,SUV,2020
+1714,i10,Diesel,710084,Hatchback,2018
+1715,Santro,Diesel,566868,Hatchback,2021
+1716,Creta,Petrol,2087832,SUV,2017
+1717,Alcazar,Diesel,2380618,SUV,2016
+1718,Santro,Diesel,545213,Hatchback,2019
+1719,Santro,Diesel,739354,Hatchback,2015
+1720,Aura,Petrol,1038390,Sedan,2016
+1721,Aura,Petrol,1355938,Sedan,2015
+1722,i10,Petrol,677135,Hatchback,2016
+1723,Tucson,Diesel,1348938,SUV,2021
+1724,Kona,Diesel,2489061,SUV,2021
+1725,Alcazar,Petrol,1050101,SUV,2020
+1726,Aura,Diesel,910732,Sedan,2022
+1727,Santro,Petrol,756875,Hatchback,2018
+1728,Alcazar,Diesel,1899266,SUV,2017
+1729,Grand i10 Nios,Diesel,738405,Hatchback,2021
+1730,Aura,Diesel,1263098,Sedan,2022
+1731,Kona,Diesel,1058854,SUV,2020
+1732,Tucson,Diesel,1695403,SUV,2022
+1733,Alcazar,Petrol,1733934,SUV,2021
+1734,Tucson,Petrol,2455674,SUV,2018
+1735,Tucson,Diesel,1991118,SUV,2018
+1736,Ioniq 5,Electric,3824639,Electric,2020
+1737,Kona,Petrol,1493119,SUV,2018
+1738,Tucson,Diesel,1210198,SUV,2015
+1739,Grand i10 Nios,Diesel,823178,Hatchback,2020
+1740,Elantra,Petrol,1160858,Sedan,2018
+1741,Elantra,Diesel,1054018,Sedan,2015
+1742,Grand i10 Nios,Diesel,833777,Hatchback,2017
+1743,Elantra,Petrol,1481514,Sedan,2015
+1744,Creta,Petrol,1929959,SUV,2021
+1745,i10,Diesel,641857,Hatchback,2018
+1746,i10,Diesel,617722,Hatchback,2017
+1747,Aura,Petrol,1368026,Sedan,2019
+1748,Ioniq,Electric,3675432,Electric,2015
+1749,Grand i10 Nios,Petrol,654751,Hatchback,2018
+1750,Venue,Diesel,1591457,SUV,2016
+1751,Kona Electric,Electric,2284786,Electric,2020
+1752,Venue,Diesel,1940298,SUV,2018
+1753,Aura,Diesel,998798,Sedan,2016
+1754,Creta,Diesel,2008923,SUV,2016
+1755,Kona,Petrol,2214926,SUV,2022
+1756,Ioniq,Electric,3467392,Electric,2021
+1757,Tucson,Petrol,2009729,SUV,2018
+1758,i10,Petrol,736971,Hatchback,2019
+1759,Kona,Petrol,1127229,SUV,2015
+1760,Elantra,Petrol,1313780,Sedan,2017
+1761,Kona Electric,Electric,2146511,Electric,2016
+1762,Ioniq,Electric,3182074,Electric,2018
+1763,Elantra,Petrol,1078527,Sedan,2019
+1764,Alcazar,Diesel,1205700,SUV,2021
+1765,Elantra,Petrol,1391048,Sedan,2019
+1766,Ioniq,Electric,2257476,Electric,2017
+1767,Elantra,Petrol,1384270,Sedan,2017
+1768,Ioniq,Electric,3493536,Electric,2015
+1769,Alcazar,Petrol,1708517,SUV,2020
+1770,Ioniq 5,Electric,3848582,Electric,2020
+1771,Santro,Petrol,886472,Hatchback,2017
+1772,Santro,Petrol,750809,Hatchback,2016
+1773,Tucson,Diesel,2163916,SUV,2017
+1774,i20,Petrol,756352,Hatchback,2015
+1775,i10,Petrol,541200,Hatchback,2015
+1776,Kona,Diesel,1641089,SUV,2022
+1777,Ioniq,Electric,4857145,Electric,2021
+1778,Kona,Diesel,1105529,SUV,2021
+1779,Tucson,Petrol,2245610,SUV,2022
+1780,i20,Diesel,677778,Hatchback,2018
+1781,Creta,Petrol,1955440,SUV,2016
+1782,Ioniq 5,Electric,3359128,Electric,2021
+1783,Tucson,Petrol,2103795,SUV,2021
+1784,Kona Electric,Electric,2061495,Electric,2018
+1785,Ioniq,Electric,4251449,Electric,2020
+1786,Creta,Petrol,1200241,SUV,2020
+1787,i20,Petrol,566687,Hatchback,2015
+1788,Venue,Petrol,2041796,SUV,2019
+1789,Creta,Diesel,2278284,SUV,2016
+1790,Tucson,Diesel,2123743,SUV,2018
+1791,Ioniq 5,Electric,3299746,Electric,2016
+1792,i20,Diesel,762606,Hatchback,2018
+1793,Venue,Diesel,1833709,SUV,2017
+1794,Ioniq 5,Electric,2610629,Electric,2019
+1795,Kona,Petrol,1969666,SUV,2019
+1796,Creta,Diesel,1130505,SUV,2016
+1797,Kona,Petrol,1224483,SUV,2017
+1798,Grand i10 Nios,Petrol,610998,Hatchback,2015
+1799,Ioniq 5,Electric,3194070,Electric,2015
+1800,Ioniq,Electric,2271537,Electric,2016
+1801,Tucson,Diesel,1766012,SUV,2015
+1802,Venue,Diesel,2409143,SUV,2020
+1803,i10,Petrol,796437,Hatchback,2017
+1804,i20,Diesel,773725,Hatchback,2016
+1805,Creta,Petrol,1436801,SUV,2017
+1806,i10,Diesel,784011,Hatchback,2017
+1807,Ioniq 5,Electric,2906276,Electric,2020
+1808,Elantra,Petrol,900313,Sedan,2021
+1809,Grand i10 Nios,Diesel,575727,Hatchback,2016
+1810,Venue,Petrol,2183297,SUV,2018
+1811,Ioniq,Electric,3410837,Electric,2019
+1812,Grand i10 Nios,Petrol,800784,Hatchback,2022
+1813,Grand i10 Nios,Diesel,541797,Hatchback,2018
+1814,Santro,Petrol,733506,Hatchback,2019
+1815,Elantra,Diesel,1467164,Sedan,2017
+1816,Elantra,Petrol,1134775,Sedan,2022
+1817,Ioniq,Electric,4915219,Electric,2017
+1818,Venue,Diesel,2028274,SUV,2015
+1819,Verna,Petrol,936537,Sedan,2022
+1820,Kona,Petrol,1898264,SUV,2017
+1821,Ioniq,Electric,2675254,Electric,2019
+1822,i20,Diesel,860764,Hatchback,2019
+1823,Elantra,Diesel,1254617,Sedan,2022
+1824,Alcazar,Petrol,1981040,SUV,2021
+1825,Verna,Petrol,1310806,Sedan,2021
+1826,Grand i10 Nios,Petrol,786741,Hatchback,2022
+1827,Kona Electric,Electric,2919150,Electric,2021
+1828,Kona,Petrol,1908561,SUV,2016
+1829,Alcazar,Diesel,1434976,SUV,2018
+1830,Ioniq 5,Electric,2157254,Electric,2015
+1831,Kona,Diesel,1059138,SUV,2019
+1832,Ioniq,Electric,4437449,Electric,2022
+1833,Venue,Diesel,1820071,SUV,2017
+1834,Kona,Diesel,1579297,SUV,2017
+1835,Ioniq 5,Electric,4508576,Electric,2017
+1836,Creta,Diesel,1792959,SUV,2022
+1837,Venue,Petrol,1535605,SUV,2017
+1838,Aura,Diesel,1086573,Sedan,2020
+1839,Creta,Petrol,1060564,SUV,2017
+1840,i20,Petrol,610668,Hatchback,2022
+1841,Alcazar,Petrol,2304195,SUV,2018
+1842,Kona Electric,Electric,4495375,Electric,2016
+1843,Kona Electric,Electric,3024717,Electric,2020
+1844,Tucson,Petrol,1605264,SUV,2016
+1845,Alcazar,Diesel,1563846,SUV,2020
+1846,Ioniq 5,Electric,4739847,Electric,2021
+1847,Santro,Petrol,500123,Hatchback,2021
+1848,Grand i10 Nios,Diesel,710710,Hatchback,2016
+1849,Aura,Diesel,1073258,Sedan,2015
+1850,i20,Petrol,704769,Hatchback,2019
+1851,i20,Petrol,818726,Hatchback,2016
+1852,i20,Diesel,576207,Hatchback,2019
+1853,i20,Petrol,527237,Hatchback,2020
+1854,Kona Electric,Electric,4097229,Electric,2020
+1855,i10,Petrol,834468,Hatchback,2022
+1856,Kona,Petrol,2369238,SUV,2015
+1857,Creta,Petrol,1484542,SUV,2020
+1858,Aura,Diesel,1459519,Sedan,2019
+1859,Verna,Diesel,1019063,Sedan,2018
+1860,Kona,Petrol,1925266,SUV,2018
+1861,Grand i10 Nios,Diesel,797209,Hatchback,2019
+1862,Ioniq 5,Electric,3776730,Electric,2018
+1863,Ioniq,Electric,3371578,Electric,2018
+1864,Verna,Diesel,1212505,Sedan,2016
+1865,Aura,Diesel,1488846,Sedan,2019
+1866,Aura,Petrol,1129078,Sedan,2015
+1867,Tucson,Petrol,1658795,SUV,2021
+1868,Kona Electric,Electric,4178267,Electric,2015
+1869,Creta,Diesel,1950418,SUV,2020
+1870,Kona,Petrol,2181142,SUV,2022
+1871,Ioniq 5,Electric,3787011,Electric,2019
+1872,Alcazar,Petrol,2392963,SUV,2020
+1873,i20,Petrol,782108,Hatchback,2022
+1874,Tucson,Diesel,2165552,SUV,2021
+1875,Alcazar,Diesel,1549760,SUV,2019
+1876,Ioniq 5,Electric,4855926,Electric,2015
+1877,Tucson,Petrol,2432901,SUV,2022
+1878,Aura,Petrol,1285541,Sedan,2015
+1879,Kona,Diesel,1847925,SUV,2015
+1880,Kona Electric,Electric,3774992,Electric,2017
+1881,Verna,Diesel,1115378,Sedan,2021
+1882,Grand i10 Nios,Diesel,729597,Hatchback,2017
+1883,Ioniq 5,Electric,2292916,Electric,2019
+1884,i10,Petrol,863851,Hatchback,2015
+1885,Ioniq 5,Electric,4435070,Electric,2019
+1886,Elantra,Petrol,1169652,Sedan,2020
+1887,Grand i10 Nios,Diesel,745478,Hatchback,2016
+1888,Alcazar,Petrol,1664672,SUV,2019
+1889,Ioniq,Electric,4961427,Electric,2017
+1890,i10,Petrol,704683,Hatchback,2017
+1891,Creta,Petrol,1333778,SUV,2018
+1892,Kona,Diesel,2073411,SUV,2017
+1893,Venue,Petrol,2142078,SUV,2020
+1894,Creta,Diesel,1132617,SUV,2016
+1895,i20,Diesel,754207,Hatchback,2021
+1896,i20,Petrol,867758,Hatchback,2018
+1897,Venue,Petrol,2222332,SUV,2022
+1898,Ioniq 5,Electric,4671336,Electric,2017
+1899,Elantra,Diesel,1191950,Sedan,2015
+1900,Ioniq 5,Electric,3160475,Electric,2019
+1901,Kona Electric,Electric,2588010,Electric,2020
+1902,Kona,Diesel,1756393,SUV,2020
+1903,Santro,Petrol,788393,Hatchback,2015
+1904,i20,Diesel,705967,Hatchback,2018
+1905,Creta,Diesel,1360456,SUV,2017
+1906,Verna,Diesel,1088283,Sedan,2020
+1907,Verna,Petrol,998538,Sedan,2021
+1908,Alcazar,Petrol,1784596,SUV,2020
+1909,Santro,Diesel,791871,Hatchback,2019
+1910,Ioniq 5,Electric,4539207,Electric,2019
+1911,Ioniq,Electric,2024391,Electric,2019
+1912,Grand i10 Nios,Diesel,700901,Hatchback,2015
+1913,Tucson,Diesel,1721121,SUV,2016
+1914,Alcazar,Petrol,2217139,SUV,2021
+1915,i10,Petrol,575004,Hatchback,2021
+1916,Verna,Diesel,1466776,Sedan,2017
+1917,Ioniq,Electric,3257107,Electric,2016
+1918,Venue,Petrol,2215564,SUV,2017
+1919,Aura,Diesel,1487598,Sedan,2020
+1920,Ioniq 5,Electric,3508149,Electric,2021
+1921,Kona,Diesel,1683072,SUV,2022
+1922,Elantra,Petrol,1289975,Sedan,2018
+1923,i20,Diesel,829820,Hatchback,2015
+1924,i20,Petrol,741725,Hatchback,2020
+1925,Kona,Diesel,1976504,SUV,2020
+1926,Verna,Diesel,918839,Sedan,2017
+1927,Ioniq,Electric,3379638,Electric,2019
+1928,i20,Petrol,856106,Hatchback,2022
+1929,Kona Electric,Electric,2057805,Electric,2021
+1930,Aura,Petrol,1036658,Sedan,2018
+1931,Creta,Petrol,1566783,SUV,2016
+1932,i10,Diesel,615434,Hatchback,2015
+1933,Tucson,Petrol,1815005,SUV,2015
+1934,Verna,Diesel,1433806,Sedan,2017
+1935,Kona,Petrol,1912488,SUV,2019
+1936,i20,Diesel,539067,Hatchback,2018
+1937,Ioniq 5,Electric,3357865,Electric,2022
+1938,i20,Petrol,865186,Hatchback,2017
+1939,Kona,Petrol,2177928,SUV,2015
+1940,i10,Diesel,873847,Hatchback,2020
+1941,Ioniq 5,Electric,4368753,Electric,2018
+1942,Grand i10 Nios,Petrol,747643,Hatchback,2015
+1943,Verna,Diesel,1053008,Sedan,2021
+1944,Venue,Petrol,1318810,SUV,2022
+1945,Aura,Petrol,1303202,Sedan,2021
+1946,Ioniq 5,Electric,2791803,Electric,2016
+1947,Alcazar,Diesel,1769297,SUV,2019
+1948,Kona,Diesel,1749838,SUV,2015
+1949,Creta,Diesel,2179625,SUV,2021
+1950,Ioniq,Electric,2038382,Electric,2020
+1951,Elantra,Diesel,1095142,Sedan,2015
+1952,Venue,Diesel,1371588,SUV,2018
+1953,Kona,Diesel,2470923,SUV,2016
+1954,Alcazar,Petrol,1286276,SUV,2017
+1955,Kona,Diesel,2167617,SUV,2021
+1956,Kona,Petrol,1663995,SUV,2022
+1957,Ioniq 5,Electric,2235384,Electric,2018
+1958,Kona,Diesel,1652539,SUV,2021
+1959,Aura,Petrol,1056571,Sedan,2019
+1960,Aura,Petrol,1378112,Sedan,2020
+1961,Ioniq,Electric,2390260,Electric,2021
+1962,Ioniq 5,Electric,3972539,Electric,2021
+1963,Venue,Diesel,1102923,SUV,2019
+1964,Creta,Petrol,1479088,SUV,2016
+1965,Ioniq 5,Electric,3864341,Electric,2017
+1966,Venue,Diesel,2391361,SUV,2021
+1967,Alcazar,Petrol,2429126,SUV,2018
+1968,Elantra,Petrol,1392862,Sedan,2019
+1969,Ioniq,Electric,4135482,Electric,2022
+1970,Venue,Petrol,1772926,SUV,2016
+1971,i20,Petrol,610498,Hatchback,2016
+1972,Elantra,Diesel,1041118,Sedan,2021
+1973,Kona,Diesel,1405786,SUV,2020
+1974,Aura,Petrol,1449398,Sedan,2016
+1975,Creta,Diesel,1484862,SUV,2019
+1976,Ioniq 5,Electric,2541487,Electric,2019
+1977,Tucson,Petrol,1145696,SUV,2020
+1978,Tucson,Diesel,2432000,SUV,2022
+1979,Kona,Diesel,1280381,SUV,2016
+1980,Aura,Petrol,1294177,Sedan,2018
+1981,Ioniq,Electric,2708401,Electric,2020
+1982,Santro,Petrol,889022,Hatchback,2019
+1983,Verna,Petrol,1322449,Sedan,2021
+1984,Santro,Diesel,688912,Hatchback,2022
+1985,Creta,Petrol,1514578,SUV,2015
+1986,Kona,Diesel,2099156,SUV,2016
+1987,Grand i10 Nios,Diesel,653462,Hatchback,2018
+1988,Alcazar,Diesel,2377549,SUV,2019
+1989,Kona,Petrol,2237468,SUV,2018
+1990,Ioniq,Electric,3954118,Electric,2016
+1991,Ioniq,Electric,3836135,Electric,2016
+1992,Alcazar,Petrol,2263305,SUV,2022
+1993,Elantra,Diesel,1116117,Sedan,2017
+1994,Alcazar,Diesel,2068142,SUV,2016
+1995,Alcazar,Petrol,1381846,SUV,2015
+1996,Kona,Diesel,1004317,SUV,2019
+1997,Ioniq 5,Electric,2314455,Electric,2015
+1998,Aura,Petrol,1164106,Sedan,2016
+1999,Santro,Diesel,804202,Hatchback,2021
+2000,Aura,Petrol,1377272,Sedan,2017
