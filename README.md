@@ -1,4 +1,4 @@
-### Hyundai Service Cost Analysis & Prediction
+# Hyundai Service Cost Analysis & Prediction
 
 ## Executive Summary
 This project delivers an end-to-end analytics and machine learning solution to analyze Hyundai vehicle service patterns and predict future service costs.
@@ -14,7 +14,7 @@ Forecasting future service costs
 This project addresses these needs through an integrated analytics pipeline and predictive model.
 
 ## Solution Architecture
-# Data Generation → Snowflake → Data Processing → Machine Learning → Tableau Dashboard → Streamlit Application
+### Data Generation → Snowflake → Data Processing → Machine Learning → Tableau Dashboard → Streamlit Application
 
 ## Workflow
 1.Synthetic automotive data generated using Faker
@@ -56,9 +56,9 @@ https://public.tableau.com/app/profile/barath.p8111/viz/HyundaiservicecostOverre
 ![Dashboard Image](assets/Dashboard.png)
 
 ## Machine Learning Component
-# Objective
+### Objective
 Predict vehicle service cost using historical service and vehicle attributes.
-#Model Type
+### Model Type
 Supervised Regression (Scikit-learn)
 Input Features
 vehicle_age
@@ -67,10 +67,10 @@ segment
 base_price
 Service history attributes
 
-# Target Variable
+### Target Variable
 service_cost
 
-# Evaluation Metrics
+### Evaluation Metrics
 Mean Absolute Error (MAE)
 Root Mean Squared Error (RMSE)
 R² Score
@@ -78,7 +78,7 @@ R² Score
 ## Streamlit Application
 An interactive web interface allows users to input vehicle characteristics and obtain predicted service costs in real time.
 ![Streamlit Prediction App](assets/streamlit app.png)
-# Run Locally
+### Run Locally
 streamlit run app.py
 
 ## Technology Stack
