@@ -24,9 +24,9 @@ This project addresses these needs through an integrated analytics pipeline and 
 
 ## Datasets
 The master analytical dataset is constructed by integrating four core tables:
-Customers table
-Vehicles
-Sales
+Customers table,
+Vehicles,
+Sales,
 Service
 
 ## Key Performance Indicators
