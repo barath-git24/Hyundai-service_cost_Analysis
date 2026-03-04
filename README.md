@@ -60,11 +60,11 @@ https://public.tableau.com/app/profile/barath.p8111/viz/HyundaiservicecostOverre
 Predict vehicle service cost using historical service and vehicle attributes.
 ### Model Type
 Supervised Regression (Scikit-learn)
-Input Features
-vehicle_age
-engine_type
-segment
-base_price
+Input Features:
+vehicle_age,
+engine_type,
+segment,
+base_price,
 Service history attributes
 
 ### Target Variable
